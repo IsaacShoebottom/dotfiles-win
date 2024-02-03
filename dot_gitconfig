@@ -1,0 +1,22 @@
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+[user]
+	name = Isaac Shoebottom
+	email = ir.shoebottom@gmail.com
+[init]
+	defaultBranch = master
+[credential "https://github.com"]
+	helper = gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = gh auth git-credential
+[credential "https://vcs.cs.unb.ca"]
+	provider = generic
+[credential "https://git.shoebottom.ca"]
+	provider = generic
+[core]
+	autocrlf = false
+[credential "helperselector"]
+	selected = manager

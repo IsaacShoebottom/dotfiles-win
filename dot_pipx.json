@@ -1,0 +1,813 @@
+{
+    "pipx_spec_version": "0.1",
+    "venvs": {
+        "cyberdrop-dl": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\cyberdrop-dl\\Scripts\\cyberdrop-dl.exe",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {
+                        "charset-normalizer": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\cyberdrop-dl\\Scripts\\normalizer.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "get-video-properties": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\cyberdrop-dl\\Scripts\\audioprops.exe",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\cyberdrop-dl\\Scripts\\videoprops.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "markdown-it-py": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\cyberdrop-dl\\Scripts\\markdown-it.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "mutagen": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\cyberdrop-dl\\Scripts\\mid3cp.exe",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\cyberdrop-dl\\Scripts\\mid3iconv.exe",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\cyberdrop-dl\\Scripts\\mid3v2.exe",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\cyberdrop-dl\\Scripts\\moggsplit.exe",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\cyberdrop-dl\\Scripts\\mutagen-inspect.exe",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\cyberdrop-dl\\Scripts\\mutagen-pony.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "pygments": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\cyberdrop-dl\\Scripts\\pygmentize.exe",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "apps": [
+                        "cyberdrop-dl.exe"
+                    ],
+                    "apps_of_dependencies": [
+                        "normalizer.exe",
+                        "audioprops.exe",
+                        "videoprops.exe",
+                        "mid3cp.exe",
+                        "mid3iconv.exe",
+                        "mid3v2.exe",
+                        "moggsplit.exe",
+                        "mutagen-inspect.exe",
+                        "mutagen-pony.exe",
+                        "markdown-it.exe",
+                        "pygmentize.exe"
+                    ],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [
+                        "man1\\mid3cp.1",
+                        "man1\\mid3iconv.1",
+                        "man1\\mid3v2.1",
+                        "man1\\moggsplit.1",
+                        "man1\\mutagen-inspect.1",
+                        "man1\\mutagen-pony.1"
+                    ],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {
+                        "mutagen": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\cyberdrop-dl\\share\\man\\man1\\mid3cp.1",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\cyberdrop-dl\\share\\man\\man1\\mid3iconv.1",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\cyberdrop-dl\\share\\man\\man1\\mid3v2.1",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\cyberdrop-dl\\share\\man\\man1\\moggsplit.1",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\cyberdrop-dl\\share\\man\\man1\\mutagen-inspect.1",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\cyberdrop-dl\\share\\man\\man1\\mutagen-pony.1",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "package": "cyberdrop-dl",
+                    "package_or_url": "cyberdrop-dl",
+                    "package_version": "5.1.43",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.11.7",
+                "venv_args": []
+            }
+        },
+        "gallery-dl": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\gallery-dl\\Scripts\\gallery-dl.exe",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {
+                        "charset-normalizer": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\gallery-dl\\Scripts\\normalizer.exe",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "apps": [
+                        "gallery-dl.exe"
+                    ],
+                    "apps_of_dependencies": [
+                        "normalizer.exe"
+                    ],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "man_pages": [
+                        "man1\\gallery-dl.1",
+                        "man5\\gallery-dl.conf.5"
+                    ],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [
+                        {
+                            "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\gallery-dl\\share\\man\\man1\\gallery-dl.1",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\gallery-dl\\share\\man\\man5\\gallery-dl.conf.5",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "man_paths_of_dependencies": {},
+                    "package": "gallery-dl",
+                    "package_or_url": "gallery-dl",
+                    "package_version": "1.26.6",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.11.7",
+                "venv_args": []
+            }
+        },
+        "mkdocs": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\mkdocs\\Scripts\\mkdocs.exe",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {
+                        "ghp-import": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\mkdocs\\Scripts\\ghp-import.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "markdown": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\mkdocs\\Scripts\\markdown_py.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "watchdog": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\mkdocs\\Scripts\\watchmedo.exe",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "apps": [
+                        "mkdocs.exe"
+                    ],
+                    "apps_of_dependencies": [
+                        "ghp-import.exe",
+                        "markdown_py.exe",
+                        "watchmedo.exe"
+                    ],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
+                    "package": "mkdocs",
+                    "package_or_url": "mkdocs",
+                    "package_version": "1.5.3",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.11.7",
+                "venv_args": []
+            }
+        },
+        "party": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\party\\Scripts\\party.exe",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {
+                        "charset-normalizer": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\party\\Scripts\\normalizer.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "tqdm": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\party\\Scripts\\tqdm.exe",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "apps": [
+                        "party.exe"
+                    ],
+                    "apps_of_dependencies": [
+                        "normalizer.exe",
+                        "tqdm.exe"
+                    ],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
+                    "package": "party",
+                    "package_or_url": "https://github.com/darkdragn/party/releases/download/v0.6.6/party-0.6.6-py3-none-any.whl",
+                    "package_version": "0.6.6",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.11.7",
+                "venv_args": []
+            }
+        },
+        "pipdeptree": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\pipdeptree\\Scripts\\pipdeptree.exe",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {},
+                    "apps": [
+                        "pipdeptree.exe"
+                    ],
+                    "apps_of_dependencies": [],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
+                    "package": "pipdeptree",
+                    "package_or_url": "pipdeptree",
+                    "package_version": "2.13.2",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.11.7",
+                "venv_args": []
+            }
+        },
+        "pipenv": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\pipenv\\Scripts\\pipenv-resolver.exe",
+                            "__type__": "Path"
+                        },
+                        {
+                            "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\pipenv\\Scripts\\pipenv.exe",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {
+                        "virtualenv": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\pipenv\\Scripts\\virtualenv.exe",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "apps": [
+                        "pipenv-resolver.exe",
+                        "pipenv.exe"
+                    ],
+                    "apps_of_dependencies": [
+                        "virtualenv.exe"
+                    ],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
+                    "package": "pipenv",
+                    "package_or_url": "pipenv",
+                    "package_version": "2023.11.15",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.11.7",
+                "venv_args": []
+            }
+        },
+        "pipreqs": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\pipreqs\\Scripts\\pipreqs.exe",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {
+                        "charset-normalizer": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\pipreqs\\Scripts\\normalizer.exe",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "apps": [
+                        "pipreqs.exe"
+                    ],
+                    "apps_of_dependencies": [
+                        "normalizer.exe"
+                    ],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
+                    "package": "pipreqs",
+                    "package_or_url": "pipreqs",
+                    "package_version": "0.4.13",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.11.7",
+                "venv_args": []
+            }
+        },
+        "poetry": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\poetry\\Scripts\\poetry.exe",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {
+                        "build": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\poetry\\Scripts\\pyproject-build.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "cachecontrol": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\poetry\\Scripts\\doesitcache.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "charset-normalizer": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\poetry\\Scripts\\normalizer.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "dulwich": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\poetry\\Scripts\\dul-receive-pack",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\poetry\\Scripts\\dul-upload-pack",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\poetry\\Scripts\\dulwich.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "keyring": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\poetry\\Scripts\\keyring.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "pkginfo": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\poetry\\Scripts\\pkginfo.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "virtualenv": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\poetry\\Scripts\\virtualenv.exe",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "apps": [
+                        "poetry.exe"
+                    ],
+                    "apps_of_dependencies": [
+                        "pyproject-build.exe",
+                        "doesitcache.exe",
+                        "normalizer.exe",
+                        "dul-receive-pack",
+                        "dul-upload-pack",
+                        "dulwich.exe",
+                        "keyring.exe",
+                        "pkginfo.exe",
+                        "virtualenv.exe"
+                    ],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
+                    "package": "poetry",
+                    "package_or_url": "poetry",
+                    "package_version": "1.7.1",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.11.7",
+                "venv_args": []
+            }
+        },
+        "qrcode": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\qrcode\\Scripts\\qr.exe",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {
+                        "pypng": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\qrcode\\Scripts\\prichunkpng",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\qrcode\\Scripts\\pricolpng",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\qrcode\\Scripts\\priditherpng",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\qrcode\\Scripts\\priforgepng",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\qrcode\\Scripts\\prigreypng",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\qrcode\\Scripts\\pripalpng",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\qrcode\\Scripts\\pripamtopng",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\qrcode\\Scripts\\priplan9topng",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\qrcode\\Scripts\\pripnglsch",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\qrcode\\Scripts\\pripngtopam",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\qrcode\\Scripts\\prirowpng",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\qrcode\\Scripts\\priweavepng",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "apps": [
+                        "qr.exe"
+                    ],
+                    "apps_of_dependencies": [
+                        "prichunkpng",
+                        "pricolpng",
+                        "priditherpng",
+                        "priforgepng",
+                        "prigreypng",
+                        "pripalpng",
+                        "pripamtopng",
+                        "priplan9topng",
+                        "pripnglsch",
+                        "pripngtopam",
+                        "prirowpng",
+                        "priweavepng"
+                    ],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "man_pages": [
+                        "man1\\qr.1"
+                    ],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [
+                        {
+                            "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\qrcode\\share\\man\\man1\\qr.1",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "man_paths_of_dependencies": {},
+                    "package": "qrcode",
+                    "package_or_url": "qrcode[pil]",
+                    "package_version": "7.4.2",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.11.7",
+                "venv_args": []
+            }
+        },
+        "segno": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\segno\\Scripts\\segno.exe",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {},
+                    "apps": [
+                        "segno.exe"
+                    ],
+                    "apps_of_dependencies": [],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
+                    "package": "segno",
+                    "package_or_url": "segno",
+                    "package_version": "1.6.0",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.11.7",
+                "venv_args": []
+            }
+        },
+        "streamrip": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\streamrip\\Scripts\\rip.exe",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {
+                        "charset-normalizer": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\streamrip\\Scripts\\normalizer.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "markdown-it-py": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\streamrip\\Scripts\\markdown-it.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "mutagen": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\streamrip\\Scripts\\mid3cp.exe",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\streamrip\\Scripts\\mid3iconv.exe",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\streamrip\\Scripts\\mid3v2.exe",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\streamrip\\Scripts\\moggsplit.exe",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\streamrip\\Scripts\\mutagen-inspect.exe",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\streamrip\\Scripts\\mutagen-pony.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "pygments": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\streamrip\\Scripts\\pygmentize.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "pytest": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\streamrip\\Scripts\\py.test.exe",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\streamrip\\Scripts\\pytest.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "tqdm": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\streamrip\\Scripts\\tqdm.exe",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "apps": [
+                        "rip.exe"
+                    ],
+                    "apps_of_dependencies": [
+                        "normalizer.exe",
+                        "mid3cp.exe",
+                        "mid3iconv.exe",
+                        "mid3v2.exe",
+                        "moggsplit.exe",
+                        "mutagen-inspect.exe",
+                        "mutagen-pony.exe",
+                        "py.test.exe",
+                        "pytest.exe",
+                        "markdown-it.exe",
+                        "pygmentize.exe",
+                        "tqdm.exe"
+                    ],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [
+                        "man1\\mid3cp.1",
+                        "man1\\mid3iconv.1",
+                        "man1\\mid3v2.1",
+                        "man1\\moggsplit.1",
+                        "man1\\mutagen-inspect.1",
+                        "man1\\mutagen-pony.1"
+                    ],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {
+                        "mutagen": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\streamrip\\share\\man\\man1\\mid3cp.1",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\streamrip\\share\\man\\man1\\mid3iconv.1",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\streamrip\\share\\man\\man1\\mid3v2.1",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\streamrip\\share\\man\\man1\\moggsplit.1",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\streamrip\\share\\man\\man1\\mutagen-inspect.1",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\streamrip\\share\\man\\man1\\mutagen-pony.1",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "package": "streamrip",
+                    "package_or_url": "streamrip",
+                    "package_version": "2.0.3",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.11.7",
+                "venv_args": []
+            }
+        },
+        "virtualenv": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "C:\\Users\\Isaac\\.local\\pipx\\venvs\\virtualenv\\Scripts\\virtualenv.exe",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {},
+                    "apps": [
+                        "virtualenv.exe"
+                    ],
+                    "apps_of_dependencies": [],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
+                    "package": "virtualenv",
+                    "package_or_url": "virtualenv",
+                    "package_version": "20.25.0",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.3",
+                "python_version": "Python 3.11.7",
+                "venv_args": []
+            }
+        }
+    }
+}

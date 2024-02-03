@@ -1,6 +1,6 @@
 # Sync apps with scoop
 # . ~/Documents/PowerShell/verify-state.ps1
-scoop export | Out-File "~\scoop\apps.json"
+. ~/Documents/PowerShell/installed-apps.ps1
 
 # Shell completion
 . ~/Documents/PowerShell/completions.ps1
