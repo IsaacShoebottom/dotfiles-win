@@ -24,4 +24,6 @@ if (Test-Path alias:pwd) {
     chezmoi re-add
     chezmoi diff
     chezmoi git -- commit -a -m $message
+    chzemoi git -- push
+    chezmoi apply
   }
