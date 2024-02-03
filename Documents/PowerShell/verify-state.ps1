@@ -10,15 +10,15 @@ function differences($required, $installed) {
 
 if (-not (Test-Path "~\scoop\apps.json")) {
 	Write-Host "Scoop is installed but the apps.json file is missing"
-	scoop export | Out-File "~\scoop\apps.json"
 }
+scoop export | Out-File "~\scoop\apps.json"
 
 # Diff the installed software with the required software, if there are differences, install the required software
 $required = Get-Content "~\scoop\apps.json" | ConvertFrom-Json
 $installed = scoop export | ConvertFrom-Json
 $differences = differences $required.apps $installed.apps
 if ($differences) {
-	Write-Host "The following software is missing:"
+	Write-Host "The following software not synced:"
 	$differences | ForEach-Object { Write-Host $_.InputObject }
 	$install = Read-Host "Would you like to install the missing software? (y/n)"
 	if ($install -eq "y") {
