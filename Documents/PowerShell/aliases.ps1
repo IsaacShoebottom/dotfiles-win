@@ -8,4 +8,20 @@ if (Test-Path alias:pwd) {
   if (Test-Path alias:dotfolder) {
     Remove-Alias -Name dotfolder
   }
-  function dotfolder {Set-Location ~/.local/share/chezmoi}
+  Function dotfolder {Set-Location ~/.local/share/chezmoi}
+
+  if (Test-Path alias:dotcommit) {
+    Remove-Alias -Name dotcommit
+  }
+
+  Function dotcommit {
+    # If no arguments are passed, use the default message
+    if ($args.Length -eq 0) {
+      $message = "Update dotfiles"
+    } else {
+      $message = $args -join " "
+    }
+    chezmoi re-add
+    chezmoi diff
+    chezmoi git -- commit -a -m $message
+  }
