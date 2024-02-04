@@ -17,6 +17,6 @@
 [credential "https://git.shoebottom.ca"]
 	provider = generic
 [core]
-	autocrlf = false
+	autocrlf = true
 [credential "helperselector"]
 	selected = manager
