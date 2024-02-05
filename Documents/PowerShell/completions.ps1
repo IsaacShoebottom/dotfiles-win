@@ -6,3 +6,5 @@ Import-Module "$($(Get-Item $(Get-Command scoop.ps1).Path).Directory.Parent.Full
 if (Get-Command chezmoi -ErrorAction SilentlyContinue) { chezmoi completion powershell | Out-String | Invoke-Expression }
 # Github CLI
 Invoke-Expression -Command $(gh completion -s powershell | Out-String)
+# gsudo
+Import-Module gsudoModule
