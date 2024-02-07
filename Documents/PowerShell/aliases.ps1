@@ -15,6 +15,9 @@ if (Test-Path alias:pwd) {
   }
 
   Function dotcommit {
+    # Export installed apps to file
+    . ~/Documents/PowerShell/installed-apps.ps1
+
     # If no arguments are passed, use the default message
     if ($args.Length -eq 0) {
       $message = "Update dotfiles"
