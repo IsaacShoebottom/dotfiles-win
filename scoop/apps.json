@@ -150,9 +150,9 @@
         {
             "Source": "main",
             "Name": "bitwarden-cli",
-            "Version": "2024.1.0",
+            "Version": "2024.2.0",
             "Info": "",
-            "Updated": "2024-02-03T17:06:34.6746455-04:00"
+            "Updated": "2024-02-07T17:56:42.6367588-04:00"
         },
         {
             "Source": "extras",
@@ -262,9 +262,9 @@
         {
             "Source": "games",
             "Name": "citra-canary",
-            "Version": "2772-20240206",
+            "Version": "2773-20240207",
             "Info": "",
-            "Updated": "2024-02-06T04:56:18.1640626-04:00"
+            "Updated": "2024-02-07T17:56:44.2198966-04:00"
         },
         {
             "Source": "main",
@@ -283,9 +283,9 @@
         {
             "Source": "extras",
             "Name": "cryptomator",
-            "Version": "1.11.1",
+            "Version": "1.12.0",
             "Info": "",
-            "Updated": "2024-02-03T17:08:32.2834623-04:00"
+            "Updated": "2024-02-07T17:56:47.5030843-04:00"
         },
         {
             "Source": "extras",
@@ -353,9 +353,9 @@
         {
             "Source": "games",
             "Name": "duckstation",
-            "Version": "20240125-ga38d692",
+            "Version": "20240206-g0bc42c3",
             "Info": "",
-            "Updated": "2024-02-06T04:02:01.6691959-04:00"
+            "Updated": "2024-02-07T17:56:48.8052958-04:00"
         },
         {
             "Source": "extras",
@@ -395,9 +395,9 @@
         {
             "Source": "extras",
             "Name": "filezilla",
-            "Version": "3.66.4",
+            "Version": "3.66.5",
             "Info": "",
-            "Updated": "2024-02-03T17:23:51.3940425-04:00"
+            "Updated": "2024-02-07T17:56:51.1752058-04:00"
         },
         {
             "Source": "nerd-fonts",
@@ -465,9 +465,9 @@
         {
             "Source": "main",
             "Name": "gifski",
-            "Version": "1.12.2",
+            "Version": "1.14.2",
             "Info": "",
-            "Updated": "2024-02-03T15:40:27.7558697-04:00"
+            "Updated": "2024-02-07T17:56:56.0884305-04:00"
         },
         {
             "Source": "extras",
@@ -500,9 +500,9 @@
         {
             "Source": "main",
             "Name": "go",
-            "Version": "1.21.6",
+            "Version": "1.22.0",
             "Info": "",
-            "Updated": "2024-01-10T12:42:14.5970403-04:00"
+            "Updated": "2024-02-07T17:57:19.9428404-04:00"
         },
         {
             "Source": "extras",
@@ -626,9 +626,9 @@
         {
             "Source": "extras",
             "Name": "jetbrains-toolbox",
-            "Version": "2.2.0.19611",
+            "Version": "2.2.1.19765",
             "Info": "",
-            "Updated": "2024-02-01T14:12:41.2051306-04:00"
+            "Updated": "2024-02-07T17:57:23.3088433-04:00"
         },
         {
             "Source": "nerd-fonts",
@@ -779,6 +779,13 @@
         },
         {
             "Source": "main",
+            "Name": "neo-cowsay",
+            "Version": "2.0.4",
+            "Info": "",
+            "Updated": "2024-02-07T18:06:12.4355242-04:00"
+        },
+        {
+            "Source": "main",
             "Name": "neofetch",
             "Version": "7.1.0",
             "Info": "",
@@ -857,9 +864,9 @@
         {
             "Source": "games",
             "Name": "pcsx2-dev",
-            "Version": "1.7.5547",
+            "Version": "1.7.5550",
             "Info": "",
-            "Updated": "2024-02-06T05:14:24.2103448-04:00"
+            "Updated": "2024-02-07T17:57:24.9788406-04:00"
         },
         {
             "Source": "main",
@@ -1018,9 +1025,9 @@
         {
             "Source": "games",
             "Name": "rpcs3",
-            "Version": "0.0.30-16061",
+            "Version": "0.0.30-16065",
             "Info": "",
-            "Updated": "2024-02-06T04:01:09.143228-04:00"
+            "Updated": "2024-02-07T17:57:27.1658413-04:00"
         },
         {
             "Source": "extras",
@@ -1039,9 +1046,9 @@
         {
             "Source": "games",
             "Name": "ryujinx",
-            "Version": "1.1.1160",
+            "Version": "1.1.1163",
             "Info": "",
-            "Updated": "2024-02-06T04:00:32.9251927-04:00"
+            "Updated": "2024-02-07T17:57:39.305362-04:00"
         },
         {
             "Source": "games",
@@ -1228,9 +1235,9 @@
         {
             "Source": "games",
             "Name": "xenia-canary",
-            "Version": "20240204181034-0c9ba87",
+            "Version": "20240207085654-97d36d6",
             "Info": "",
-            "Updated": "2024-02-06T04:06:55.1439575-04:00"
+            "Updated": "2024-02-07T17:57:39.9393633-04:00"
         },
         {
             "Source": "main",
