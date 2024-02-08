@@ -58,1305 +58,1305 @@
     "apps": [
         {
             "Version": "23.01",
-            "Name": "7zip",
             "Updated": "2023-07-28T20:06:17.7318093-03:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "7zip"
         },
         {
             "Version": "4.0.1",
-            "Name": "86box",
             "Updated": "2024-02-06T04:48:13.661004-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "86box"
         },
         {
             "Version": "1.7.4",
-            "Name": "86box-manager",
             "Updated": "2024-02-06T04:48:19.4576594-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "86box-manager"
         },
         {
             "Version": "4.0.1",
-            "Name": "86box-roms",
             "Updated": "2024-02-06T04:48:27.875685-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "86box-roms"
         },
         {
             "Version": "0.2.59",
-            "Name": "act",
             "Updated": "2024-02-03T16:20:56.8642165-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "act"
         },
         {
             "Version": "34.0.5",
-            "Name": "adb",
             "Updated": "2023-11-23T10:11:22.4626207-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "adb"
         },
         {
             "Version": "3.4.2",
-            "Name": "audacity",
             "Updated": "2024-02-03T16:32:31.2552119-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "audacity"
         },
         {
             "Version": "2.0.11",
-            "Name": "autohotkey",
             "Updated": "2024-02-03T17:32:18.6780228-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "autohotkey"
         },
         {
             "Version": "2.8.1",
-            "Name": "avidemux",
             "Updated": "2024-02-03T17:13:31.5588059-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "avidemux"
         },
         {
             "Version": "1.07.1",
-            "Name": "bc",
             "Updated": "2023-07-28T20:05:51.3762881-03:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "bc"
         },
         {
             "Version": "v7.1",
-            "Name": "betterjoy",
             "Updated": "2024-02-06T04:02:59.3348213-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "betterjoy"
         },
         {
             "Version": "1.6.1",
-            "Name": "bgb",
             "Updated": "2024-02-06T04:57:08.1163119-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "bgb"
         },
         {
             "Version": "2024.1.0",
-            "Name": "bitwarden",
             "Updated": "2024-02-03T17:06:24.7115825-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "bitwarden"
         },
         {
             "Version": "2024.2.0",
-            "Name": "bitwarden-cli",
             "Updated": "2024-02-07T17:56:42.6367588-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "bitwarden-cli"
         },
         {
             "Version": "4.0.2",
-            "Name": "blender",
             "Updated": "2024-02-03T18:10:00.7513795-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "blender"
         },
         {
             "Version": "1.8.0",
-            "Name": "bruno",
             "Updated": "2024-02-06T05:14:08.2286585-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "bruno"
         },
         {
             "Version": "115",
-            "Name": "bsnes",
             "Updated": "2024-02-06T05:05:55.5152502-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "bsnes"
         },
         {
             "Version": "5.7",
-            "Name": "bulk-crap-uninstaller",
             "Updated": "2024-02-03T17:46:17.1118157-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "bulk-crap-uninstaller"
         },
         {
             "Version": "3.4.4.0",
-            "Name": "bulk-rename-utility",
             "Updated": "2024-02-03T16:32:54.9808049-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "bulk-rename-utility"
         },
         {
             "Version": "2023-12-12",
-            "Name": "cacert",
             "Updated": "2024-01-04T21:29:32.5499357-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "cacert"
         },
         {
             "Version": "7.4.0",
-            "Name": "calibre",
             "Updated": "2024-02-03T17:05:16.8936784-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "calibre"
         },
         {
             "Version": "1.7.2",
-            "Name": "capframex",
             "Updated": "2024-02-06T03:53:54.4176589-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "capframex"
         },
         {
             "Version": "3.1.1",
-            "Name": "CascadiaCode-NF",
             "Updated": "2024-01-31T16:23:12.6575145-04:00",
+            "Info": "",
             "Source": "nerd-fonts",
-            "Info": ""
+            "Name": "CascadiaCode-NF"
         },
         {
             "Version": "7767955458",
-            "Name": "cc65",
             "Updated": "2024-02-03T16:42:07.4282521-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "cc65"
         },
         {
             "Version": "2.0-65",
-            "Name": "cemu-dev",
             "Updated": "2024-02-06T04:03:21.4765101-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "cemu-dev"
         },
         {
             "Version": "7.4",
-            "Name": "cheat-engine",
             "Updated": "2024-02-03T17:15:15.8356147-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "cheat-engine"
         },
         {
             "Version": "2.46.0",
-            "Name": "chezmoi",
             "Updated": "2024-02-02T21:28:58.7048724-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "chezmoi"
         },
         {
             "Version": "2.0.0.1",
-            "Name": "choeazycopy",
             "Updated": "2024-02-06T05:35:16.1709755-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "choeazycopy"
         },
         {
             "Version": "2773-20240207",
-            "Name": "citra-canary",
             "Updated": "2024-02-07T17:56:44.2198966-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "citra-canary"
         },
         {
             "Version": "3.28.3",
-            "Name": "cmake",
             "Updated": "2024-02-06T05:14:20.9097813-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "cmake"
         },
         {
             "Version": "3.1.1",
-            "Name": "CodeNewRoman-NF",
             "Updated": "2024-02-08T14:57:44.5213197-04:00",
+            "Info": "",
             "Source": "nerd-fonts",
-            "Info": ""
+            "Name": "CodeNewRoman-NF"
         },
         {
             "Version": "3.1.1",
-            "Name": "ComicShannsMono-NF",
             "Updated": "2024-02-08T15:04:13.0932358-04:00",
+            "Info": "",
             "Source": "nerd-fonts",
-            "Info": ""
+            "Name": "ComicShannsMono-NF"
         },
         {
             "Version": "3.1.1",
-            "Name": "CommitMono-NF",
             "Updated": "2024-02-08T15:06:12.1173837-04:00",
+            "Info": "",
             "Source": "nerd-fonts",
-            "Info": ""
+            "Name": "CommitMono-NF"
         },
         {
             "Version": "3.1.1",
-            "Name": "Cousine-NF",
             "Updated": "2024-02-08T15:06:29.824753-04:00",
+            "Info": "",
             "Source": "nerd-fonts",
-            "Info": ""
+            "Name": "Cousine-NF"
         },
         {
             "Version": "2.09",
-            "Name": "cpu-z",
             "Updated": "2024-02-03T17:18:43.1795967-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "cpu-z"
         },
         {
             "Version": "1.12.0",
-            "Name": "cryptomator",
             "Updated": "2024-02-07T17:56:47.5030843-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "cryptomator"
         },
         {
             "Version": "9.2.2",
-            "Name": "crystaldiskinfo",
             "Updated": "2024-01-31T18:01:15.8819692-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "crystaldiskinfo"
         },
         {
             "Version": "8.0.4c",
-            "Name": "crystaldiskmark",
             "Updated": "2024-01-31T18:01:23.0222358-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "crystaldiskmark"
         },
         {
             "Version": "3.1.1",
-            "Name": "DaddyTimeMono-NF",
             "Updated": "2024-02-08T14:56:28.8518148-04:00",
+            "Info": "",
             "Source": "nerd-fonts",
-            "Info": ""
+            "Name": "DaddyTimeMono-NF"
         },
         {
             "Version": "3.11.2",
-            "Name": "dark",
             "Updated": "2024-01-25T19:20:31.9381101-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "dark"
         },
         {
             "Version": "2.42.7",
-            "Name": "discordchatexporter",
             "Updated": "2024-01-31T15:24:22.0033349-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "discordchatexporter"
         },
         {
             "Version": "5.0-20347",
-            "Name": "dolphin-beta",
             "Updated": "2024-02-06T04:58:58.6682868-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "dolphin-beta"
         },
         {
             "Version": "5.0-20347",
-            "Name": "dolphin-tool",
             "Updated": "2023-12-02T02:47:12.2750011-04:00",
+            "Info": "",
             "Source": "wii-tools",
-            "Info": ""
+            "Name": "dolphin-tool"
         },
         {
             "Version": "2023.10.06",
-            "Name": "dosbox-x",
             "Updated": "2024-02-06T04:49:08.7210139-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "dosbox-x"
         },
         {
             "Version": "23.0.2",
-            "Name": "draw.io",
             "Updated": "2024-02-03T16:33:32.6347176-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "draw.io"
         },
         {
             "Version": "1.50",
-            "Name": "driverview",
             "Updated": "2024-02-06T05:37:33.0514394-04:00",
+            "Info": "",
             "Source": "nirsoft",
-            "Info": ""
+            "Name": "driverview"
         },
         {
             "Version": "3.1.1",
-            "Name": "DroidSansMono-NF",
             "Updated": "2024-02-08T15:06:58.2708665-04:00",
+            "Info": "",
             "Source": "nerd-fonts",
-            "Info": ""
+            "Name": "DroidSansMono-NF"
         },
         {
             "Version": "20240206-g0bc42c3",
-            "Name": "duckstation",
             "Updated": "2024-02-07T17:56:48.8052958-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "duckstation"
         },
         {
             "Version": "1.11.57",
-            "Name": "element",
             "Updated": "2024-02-03T17:08:18.1861938-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "element"
         },
         {
             "Version": "1.4.1.1024",
-            "Name": "everything",
             "Updated": "2024-02-03T16:33:43.777863-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "everything"
         },
         {
             "Version": "0.5.3",
-            "Name": "feishin",
             "Updated": "2024-02-01T14:28:10.7218256-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "feishin"
         },
         {
             "Version": "6.1.1",
-            "Name": "ffmpeg-shared",
             "Updated": "2024-01-04T21:29:37.3680843-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "ffmpeg-shared"
         },
         {
             "Version": "5.45",
-            "Name": "file",
             "Updated": "2023-12-19T17:49:51.1354365-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "file"
         },
         {
             "Version": "3.66.5",
-            "Name": "filezilla",
             "Updated": "2024-02-07T17:56:51.1752058-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "filezilla"
         },
         {
             "Version": "3.1.1",
-            "Name": "FiraCode-NF",
             "Updated": "2024-01-31T16:23:51.0609463-04:00",
+            "Info": "",
             "Source": "nerd-fonts",
-            "Info": ""
+            "Name": "FiraCode-NF"
         },
         {
             "Version": "3.16.9",
-            "Name": "flutter",
             "Updated": "2024-01-31T20:21:17.4799716-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "flutter"
         },
         {
             "Version": "2.2",
-            "Name": "flycast",
             "Updated": "2024-02-06T04:44:10.65827-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "flycast"
         },
         {
             "Version": "2.20.7",
-            "Name": "fontbase",
             "Updated": "2024-02-08T14:28:56.7870685-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "fontbase"
         },
         {
             "Version": "1.1.7",
-            "Name": "freac",
             "Updated": "2024-02-06T05:44:47.4193348-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "freac"
         },
         {
             "Version": "1.37.2.0",
-            "Name": "furmark",
             "Updated": "2024-02-03T17:17:28.3760165-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "furmark"
         },
         {
             "Version": "13.2.0",
-            "Name": "gcc",
             "Updated": "2024-02-03T00:13:31.090257-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "gcc"
         },
         {
             "Version": "1.8.6",
-            "Name": "gcfscape",
             "Updated": "2024-02-03T17:19:32.2476638-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "gcfscape"
         },
         {
             "Version": "2.43.1",
-            "Name": "gh",
             "Updated": "2024-02-01T14:12:37.8976361-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "gh"
         },
         {
             "Version": "1.14.2",
-            "Name": "gifski",
             "Updated": "2024-02-07T17:56:56.0884305-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "gifski"
         },
         {
             "Version": "2.10.36",
-            "Name": "gimp",
             "Updated": "2024-02-03T17:23:29.8369856-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "gimp"
         },
         {
             "Version": "2.43.0",
-            "Name": "git",
             "Updated": "2023-11-21T02:26:34.203008-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "git"
         },
         {
             "Version": "3.3.8",
-            "Name": "github",
             "Updated": "2024-02-03T16:29:55.0466502-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "github"
         },
         {
             "Version": "9.11.1",
-            "Name": "gitkraken",
             "Updated": "2024-02-03T16:32:07.973143-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "gitkraken"
         },
         {
             "Version": "1.22.0",
-            "Name": "go",
             "Updated": "2024-02-07T17:57:19.9428404-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "go"
         },
         {
             "Version": "3.1.1",
-            "Name": "Go-Mono-NF",
             "Updated": "2024-02-08T14:56:04.9749956-04:00",
+            "Info": "",
             "Source": "nerd-fonts",
-            "Info": ""
+            "Name": "Go-Mono-NF"
         },
         {
             "Version": "4.2.1",
-            "Name": "godot-mono",
             "Updated": "2024-02-03T18:10:27.6907842-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "godot-mono"
         },
         {
             "Version": "2.57.0",
-            "Name": "gpu-z",
             "Updated": "2024-02-03T17:18:56.0989428-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "gpu-z"
         },
         {
             "Version": "22.3.2",
-            "Name": "graalvm-jdk17",
             "Updated": "2024-02-06T03:38:16.5323494-04:00",
+            "Info": "",
             "Source": "java",
-            "Info": ""
+            "Name": "graalvm-jdk17"
         },
         {
             "Version": "9.0.0",
-            "Name": "graphviz",
             "Updated": "2024-01-25T18:50:48.9851975-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "graphviz"
         },
         {
             "Version": "3.11",
-            "Name": "grep",
             "Updated": "2023-11-15T11:36:18.6286163-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "grep"
         },
         {
             "Version": "2.4.2",
-            "Name": "gsudo",
             "Updated": "2024-02-05T00:23:20.1846121-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "gsudo"
         },
         {
             "Version": "3.1.1",
-            "Name": "Hack-NF",
             "Updated": "2024-02-08T15:07:13.1850649-04:00",
+            "Info": "",
             "Source": "nerd-fonts",
-            "Info": ""
+            "Name": "Hack-NF"
         },
         {
             "Version": "1.7.2",
-            "Name": "handbrake",
             "Updated": "2024-02-03T17:16:22.4122636-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "handbrake"
         },
         {
             "Version": "12.6",
-            "Name": "heidisql",
             "Updated": "2024-02-03T17:26:16.3460451-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "heidisql"
         },
         {
             "Version": "7.72-5355",
-            "Name": "hwinfo",
             "Updated": "2024-02-06T05:14:22.7381555-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "hwinfo"
         },
         {
             "Version": "2.5.0.0",
-            "Name": "hxd",
             "Updated": "2024-02-03T17:18:15.6674229-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "hxd"
         },
         {
             "Version": "1.18.0",
-            "Name": "hyperfine",
             "Updated": "2023-11-12T20:05:20.9789103-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "hyperfine"
         },
         {
             "Version": "7.1.1-27",
-            "Name": "imagemagick",
             "Updated": "2024-01-31T17:11:23.5735161-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "imagemagick"
         },
         {
             "Version": "2.5.8.0",
-            "Name": "imgburn",
             "Updated": "2024-02-03T17:30:18.4101304-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "imgburn"
         },
         {
             "Version": "1.3.1_2023-11-16_91b66b0783",
-            "Name": "inkscape",
             "Updated": "2024-02-03T17:10:59.4949348-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "inkscape"
         },
         {
             "Version": "0.50",
-            "Name": "innounp",
             "Updated": "2024-01-31T17:11:06.3616717-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "innounp"
         },
         {
             "Version": "4.66",
-            "Name": "irfanview",
             "Updated": "2024-01-16T22:36:24.6364041-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "irfanview"
         },
         {
             "Version": "2.2.1.19765",
-            "Name": "jetbrains-toolbox",
             "Updated": "2024-02-07T17:57:23.3088433-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "jetbrains-toolbox"
         },
         {
             "Version": "3.1.1",
-            "Name": "JetBrainsMono-NF",
             "Updated": "2024-01-31T16:24:41.7404072-04:00",
+            "Info": "",
             "Source": "nerd-fonts",
-            "Info": ""
+            "Name": "JetBrainsMono-NF"
         },
         {
             "Version": "0.7.6",
-            "Name": "jid",
             "Updated": "2024-02-07T18:18:18.473339-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "jid"
         },
         {
             "Version": "1.7.1",
-            "Name": "jq",
             "Updated": "2024-02-07T18:18:10.6590509-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "jq"
         },
         {
             "Version": "18.0.5",
-            "Name": "k-lite-codec-pack-basic-np",
             "Updated": "2024-02-06T05:17:39.1373384-04:00",
+            "Info": "",
             "Source": "nonportable",
-            "Info": ""
+            "Name": "k-lite-codec-pack-basic-np"
         },
         {
             "Version": "23.08.4",
-            "Name": "kdenlive",
             "Updated": "2024-02-03T18:07:41.1490778-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "kdenlive"
         },
         {
             "Version": "3.64",
-            "Name": "kega-fusion",
             "Updated": "2024-02-06T04:44:30.8305314-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "kega-fusion"
         },
         {
             "Version": "1.00",
-            "Name": "keyboardstateview",
             "Updated": "2024-02-08T15:01:44.2873454-04:00",
+            "Info": "",
             "Source": "nirsoft",
-            "Info": ""
+            "Name": "keyboardstateview"
         },
         {
             "Version": "5.2.2",
-            "Name": "krita",
             "Updated": "2024-02-03T17:21:19.6918518-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "krita"
         },
         {
             "Version": "0.3.1",
-            "Name": "lapce",
             "Updated": "2024-02-08T14:24:25.9363605-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "lapce"
         },
         {
             "Version": "0.40.2",
-            "Name": "lazygit",
             "Updated": "2023-11-03T21:21:01.5862286-03:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "lazygit"
         },
         {
             "Version": "17.0.6",
-            "Name": "llvm",
             "Updated": "2024-01-10T12:12:01.1222915-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "llvm"
         },
         {
             "Version": "4.4.1",
-            "Name": "make",
             "Updated": "2023-11-03T21:11:19.3511093-03:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "make"
         },
         {
             "Version": "0.9.5",
-            "Name": "melonds",
             "Updated": "2024-02-06T05:00:33.0358975-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "melonds"
         },
         {
             "Version": "0.9.9",
-            "Name": "mesen",
             "Updated": "2024-02-06T05:04:03.87416-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "mesen"
         },
         {
             "Version": "0.10.3",
-            "Name": "mgba",
             "Updated": "2024-02-06T04:56:45.6321267-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "mgba"
         },
         {
             "Version": "1.7.00.1864",
-            "Name": "microsoft-teams",
             "Updated": "2024-02-03T16:50:54.2178826-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "microsoft-teams"
         },
         {
             "Version": "24.1",
-            "Name": "miktex",
             "Updated": "2024-01-31T15:25:11.2938777-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "miktex"
         },
         {
             "Version": "82.0",
-            "Name": "mkvtoolnix",
             "Updated": "2024-02-03T16:31:58.2198213-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "mkvtoolnix"
         },
         {
             "Version": "2.5.0",
-            "Name": "mo2",
             "Updated": "2024-02-06T03:42:36.5828669-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "mo2"
         },
         {
             "Version": "3.24",
-            "Name": "mp3tag",
             "Updated": "2024-02-03T16:34:35.4711518-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "mp3tag"
         },
         {
             "Version": "2.1.4",
-            "Name": "mpc-hc-fork",
             "Updated": "2024-02-03T16:35:24.3900054-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "mpc-hc-fork"
         },
         {
             "Version": "0.37.0",
-            "Name": "mpv",
             "Updated": "2023-12-19T17:48:44.5759534-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "mpv"
         },
         {
             "Version": "7.1.1.0",
-            "Name": "mpv.net",
             "Updated": "2024-02-03T16:20:59.8043078-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "mpv.net"
         },
         {
             "Version": "4.2.1.240230937",
-            "Name": "musescore",
             "Updated": "2024-02-03T16:35:39.1769157-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "musescore"
         },
         {
             "Version": "7.2-22.1",
-            "Name": "nano",
             "Updated": "2023-11-16T13:49:21.7255172-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "nano"
         },
         {
             "Version": "2.0.4",
-            "Name": "neo-cowsay",
             "Updated": "2024-02-07T18:06:12.4355242-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "neo-cowsay"
         },
         {
             "Version": "7.1.0",
-            "Name": "neofetch",
             "Updated": "2023-11-24T07:14:34.2593641-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "neofetch"
         },
         {
             "Version": "0.9.5",
-            "Name": "neovim",
             "Updated": "2024-01-04T21:30:20.3549963-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "neovim"
         },
         {
             "Version": "8.6.2",
-            "Name": "notepadplusplus",
             "Updated": "2024-02-03T17:20:45.0441033-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "notepadplusplus"
         },
         {
             "Version": "1.1.12",
-            "Name": "nvm",
             "Updated": "2023-11-24T06:51:07.8699591-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "nvm"
         },
         {
             "Version": "30.0.2",
-            "Name": "obs-studio",
             "Updated": "2024-02-03T16:59:45.4196094-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "obs-studio"
         },
         {
             "Version": "1.5.3",
-            "Name": "obsidian",
             "Updated": "2024-02-03T16:59:02.8688236-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "obsidian"
         },
         {
             "Version": "1.3.0",
-            "Name": "oha",
             "Updated": "2024-02-04T17:07:28.8513121-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "oha"
         },
         {
             "Version": "3.1.1",
-            "Name": "openshot",
             "Updated": "2024-02-03T18:08:56.4096893-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "openshot"
         },
         {
             "Version": "0.6.4.0",
-            "Name": "opentabletdriver",
             "Updated": "2024-02-06T05:31:13.4157958-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "opentabletdriver"
         },
         {
             "Version": "3.1.11.1",
-            "Name": "pandoc",
             "Updated": "2024-01-25T19:59:19.2765852-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "pandoc"
         },
         {
             "Version": "17",
-            "Name": "pcem",
             "Updated": "2024-02-06T04:47:44.451461-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "pcem"
         },
         {
             "Version": "1.7.5550",
-            "Name": "pcsx2-dev",
             "Updated": "2024-02-07T17:57:24.9788406-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "pcsx2-dev"
         },
         {
             "Version": "5.38.0.1",
-            "Name": "perl",
             "Updated": "2024-01-22T17:18:09.2823699-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "perl"
         },
         {
             "Version": "3.5.3-07926",
-            "Name": "pia-desktop",
             "Updated": "2024-02-06T04:50:10.5721636-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "pia-desktop"
         },
         {
             "Version": "2.1.1",
-            "Name": "pinta",
             "Updated": "2024-02-03T17:07:44.8464655-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "pinta"
         },
         {
             "Version": "1.4.3",
-            "Name": "pipx",
             "Updated": "2024-01-18T15:33:05.3523218-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "pipx"
         },
         {
             "Version": "10.32",
-            "Name": "playnite",
             "Updated": "2024-01-11T06:34:43.5767257-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "playnite"
         },
         {
             "Version": "1.86.1.4076-a3ab948d",
-            "Name": "plex-desktop",
             "Updated": "2024-02-03T16:46:55.023814-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "plex-desktop"
         },
         {
             "Version": "8.15.1",
-            "Name": "pnpm",
             "Updated": "2024-01-31T15:25:12.3957467-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "pnpm"
         },
         {
             "Version": "0.78.0",
-            "Name": "powertoys",
             "Updated": "2024-02-01T14:37:37.514329-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "powertoys"
         },
         {
             "Version": "8.0",
-            "Name": "prismlauncher",
             "Updated": "2024-02-06T03:28:47.5093076-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "prismlauncher"
         },
         {
             "Version": "2.39",
-            "Name": "processhacker",
             "Updated": "2024-02-03T17:23:25.3709648-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "processhacker"
         },
         {
             "Version": "1.97",
-            "Name": "produkey",
             "Updated": "2024-02-08T15:02:40.7177599-04:00",
+            "Info": "",
             "Source": "nirsoft",
-            "Info": ""
+            "Name": "produkey"
         },
         {
             "Version": "4.90",
-            "Name": "ps3-system-software",
             "Updated": "2024-02-06T04:01:05.8508012-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "ps3-system-software"
         },
         {
             "Version": "1.113.0",
-            "Name": "pulsar",
             "Updated": "2024-02-03T16:38:02.0371477-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "pulsar"
         },
         {
             "Version": "7.4.1",
-            "Name": "pwsh",
             "Updated": "2024-02-01T14:21:19.3324847-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "pwsh"
         },
         {
             "Version": "4.6.1",
-            "Name": "qtifw",
             "Updated": "2024-02-03T17:13:28.9912075-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "qtifw"
         },
         {
             "Version": "3.1.46",
-            "Name": "r2modman",
             "Updated": "2024-02-06T03:29:55.098339-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "r2modman"
         },
         {
             "Version": "8.11.1",
-            "Name": "racket",
             "Updated": "2024-01-29T13:57:45.8570785-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "racket"
         },
         {
             "Version": "9.2.937",
-            "Name": "rapidee",
             "Updated": "2024-02-03T16:27:49.2101215-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "rapidee"
         },
         {
             "Version": "5.2",
-            "Name": "rbxfpsunlocker",
             "Updated": "2024-02-06T03:41:19.0467799-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "rbxfpsunlocker"
         },
         {
             "Version": "1.53.2096",
-            "Name": "recuva",
             "Updated": "2024-02-03T17:20:22.8033111-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "recuva"
         },
         {
             "Version": "0.4.0",
-            "Name": "restfox",
             "Updated": "2024-02-03T17:12:58.7675882-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "restfox"
         },
         {
             "Version": "14.1.0",
-            "Name": "ripgrep",
             "Updated": "2024-01-10T12:42:15.0980395-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "ripgrep"
         },
         {
             "Version": "2.1.7",
-            "Name": "ripme",
             "Updated": "2024-02-06T02:04:27.0760987-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "ripme"
         },
         {
             "Version": "0.0.30-16065",
-            "Name": "rpcs3",
             "Updated": "2024-02-07T17:57:27.1658413-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "rpcs3"
         },
         {
             "Version": "4.4",
-            "Name": "rufus",
             "Updated": "2024-02-06T05:32:45.8810304-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "rufus"
         },
         {
             "Version": "1.26.0",
-            "Name": "rustup",
             "Updated": "2023-11-03T21:07:33.0605748-03:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "rustup"
         },
         {
             "Version": "1.1.1163",
-            "Name": "ryujinx",
             "Updated": "2024-02-07T17:57:39.305362-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "ryujinx"
         },
         {
             "Version": "0.16.2",
-            "Name": "sameboy",
             "Updated": "2024-02-06T04:56:59.519221-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "sameboy"
         },
         {
             "Version": "21.0.1",
-            "Name": "scene-builder",
             "Updated": "2024-02-03T17:12:40.6276716-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "scene-builder"
         },
         {
             "Version": "0.2.4",
-            "Name": "scoop-completion",
             "Updated": "2023-11-03T21:06:52.5132154-03:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "scoop-completion"
         },
         {
             "Version": "1.4.0",
-            "Name": "scoop-search",
             "Updated": "2024-01-31T15:25:12.765596-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "scoop-search"
         },
         {
             "Version": "2.3.1",
-            "Name": "scrcpy",
             "Updated": "2024-01-04T21:30:35.9234506-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "scrcpy"
         },
         {
             "Version": "5.0.2",
-            "Name": "sd-card-formatter",
             "Updated": "2024-02-03T17:25:56.0140272-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "sd-card-formatter"
         },
         {
             "Version": "4.9",
-            "Name": "sed",
             "Updated": "2023-11-24T04:59:25.5404312-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "sed"
         },
         {
             "Version": "24.01.28",
-            "Name": "shotcut",
             "Updated": "2024-02-03T18:08:13.5115482-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "shotcut"
         },
         {
             "Version": "2024.01.1",
-            "Name": "simple64",
             "Updated": "2024-02-06T04:06:12.5022209-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "simple64"
         },
         {
             "Version": "1.62.3",
-            "Name": "snes9x",
             "Updated": "2024-02-06T05:06:03.1150744-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "snes9x"
         },
         {
             "Version": "3.12.2",
-            "Name": "sqlitebrowser",
             "Updated": "2024-02-03T17:16:06.9020247-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "sqlitebrowser"
         },
         {
             "Version": "0.2020.01.26",
-            "Name": "sudo",
             "Updated": "2024-02-03T17:00:25.3840685-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "sudo"
         },
         {
             "Version": "0.9.27",
-            "Name": "tcc",
             "Updated": "2023-07-28T20:07:20.9156489-03:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "tcc"
         },
         {
             "Version": "4.14.13",
-            "Name": "telegram",
             "Updated": "2024-02-06T05:14:26.078774-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "telegram"
         },
         {
             "Version": "8.9.6",
-            "Name": "termius",
             "Updated": "2024-02-01T14:23:08.8914711-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "termius"
         },
         {
             "Version": "4.3.14",
-            "Name": "tinymediamanager",
             "Updated": "2024-02-06T05:21:17.6743921-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "tinymediamanager"
         },
         {
             "Version": "2.8.1",
-            "Name": "twine",
             "Updated": "2024-02-03T16:48:35.8696146-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "twine"
         },
         {
             "Version": "2024.01.12",
-            "Name": "vcpkg",
             "Updated": "2024-01-13T16:26:47.8903731-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "vcpkg"
         },
         {
             "Version": "1.0.97",
-            "Name": "ventoy",
             "Updated": "2024-02-08T15:17:47.429886-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "ventoy"
         },
         {
             "Version": "2.1.9",
-            "Name": "visualboyadvance-m",
             "Updated": "2024-02-06T04:57:20.7385073-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "visualboyadvance-m"
         },
         {
             "Version": "1.86.0",
-            "Name": "vscode",
             "Updated": "2024-02-02T21:34:13.0745523-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "vscode"
         },
         {
             "Version": "1.21.4",
-            "Name": "wget",
             "Updated": "2023-11-24T06:58:25.7603141-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "wget"
         },
         {
             "Version": "3.05a.r8638",
-            "Name": "wiimms-iso-tools",
             "Updated": "2023-12-01T17:39:20.5026872-04:00",
+            "Info": "",
             "Source": "wiidatabase",
-            "Info": ""
+            "Name": "wiimms-iso-tools"
         },
         {
             "Version": "1.19.10302.0",
-            "Name": "windows-terminal",
             "Updated": "2024-02-01T14:16:48.0604911-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "windows-terminal"
         },
         {
             "Version": "1.10",
-            "Name": "winfontsview",
             "Updated": "2024-02-08T14:29:50.7350881-04:00",
+            "Info": "",
             "Source": "nirsoft",
-            "Info": ""
+            "Name": "winfontsview"
         },
         {
             "Version": "4.2.2",
-            "Name": "wireshark",
             "Updated": "2024-01-22T16:04:55.6768417-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "wireshark"
         },
         {
             "Version": "4.18",
-            "Name": "wiztree",
             "Updated": "2024-02-03T16:44:05.410584-04:00",
+            "Info": "",
             "Source": "extras",
-            "Info": ""
+            "Name": "wiztree"
         },
         {
             "Version": "0.7.118",
-            "Name": "xemu",
             "Updated": "2024-02-06T04:08:49.4398092-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "xemu"
         },
         {
             "Version": "20240207085654-97d36d6",
-            "Name": "xenia-canary",
             "Updated": "2024-02-07T17:57:39.9393633-04:00",
+            "Info": "",
             "Source": "games",
-            "Info": ""
+            "Name": "xenia-canary"
         },
         {
             "Version": "1.22.19",
-            "Name": "yarn",
             "Updated": "2024-01-29T15:58:20.9436166-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "yarn"
         },
         {
             "Version": "2021.12.17",
-            "Name": "youtube-dl",
             "Updated": "2024-02-04T00:00:34.6133313-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "youtube-dl"
         },
         {
             "Version": "2023.12.30",
-            "Name": "yt-dlp",
             "Updated": "2024-02-01T14:33:04.7307691-04:00",
+            "Info": "",
             "Source": "main",
-            "Info": ""
+            "Name": "yt-dlp"
         },
         {
             "Version": "8.76.0.17",
-            "Name": "zulufx8-jdk",
             "Updated": "2024-02-06T03:37:41.4165658-04:00",
+            "Info": "",
             "Source": "java",
-            "Info": ""
+            "Name": "zulufx8-jdk"
         }
     ]
 }
