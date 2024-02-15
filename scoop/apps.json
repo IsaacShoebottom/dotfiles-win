@@ -109,8 +109,8 @@
       "Info": "",
       "Name": "bruno",
       "Source": "extras",
-      "Updated": "2024-02-06T05:14:08.2286585-04:00",
-      "Version": "1.8.0"
+      "Updated": "2024-02-15T03:10:29.8993468-04:00",
+      "Version": "1.9.0"
     },
     {
       "Info": "",
@@ -200,8 +200,8 @@
       "Info": "",
       "Name": "citra-canary",
       "Source": "games",
-      "Updated": "2024-02-13T17:29:44.9891296-04:00",
-      "Version": "2779-20240213"
+      "Updated": "2024-02-15T03:10:44.4116024-04:00",
+      "Version": "2781-20240215"
     },
     {
       "Info": "",
@@ -403,8 +403,8 @@
       "Info": "",
       "Name": "gitkraken",
       "Source": "extras",
-      "Updated": "2024-02-03T16:32:07.973143-04:00",
-      "Version": "9.11.1"
+      "Updated": "2024-02-15T03:11:05.7668556-04:00",
+      "Version": "9.12.0"
     },
     {
       "Info": "",
@@ -424,8 +424,8 @@
       "Info": "",
       "Name": "furmark",
       "Source": "extras",
-      "Updated": "2024-02-03T17:17:28.3760165-04:00",
-      "Version": "1.37.2.0"
+      "Updated": "2024-02-15T03:10:48.68736-04:00",
+      "Version": "1.38.0.0"
     },
     {
       "Info": "",
@@ -536,7 +536,7 @@
       "Info": "",
       "Name": "gsudo",
       "Source": "main",
-      "Updated": "2024-02-05T00:23:20.1846121-04:00",
+      "Updated": "2024-02-15T02:38:57.0101243-04:00",
       "Version": "2.4.2"
     },
     {
@@ -667,10 +667,10 @@
     },
     {
       "Info": "",
-      "Name": "rufus",
-      "Source": "extras",
-      "Updated": "2024-02-06T05:32:45.8810304-04:00",
-      "Version": "4.4"
+      "Name": "rpcs3",
+      "Source": "games",
+      "Updated": "2024-02-15T03:11:36.251787-04:00",
+      "Version": "0.0.30-16110"
     },
     {
       "Info": "",
@@ -725,15 +725,15 @@
       "Info": "",
       "Name": "microsoft-teams",
       "Source": "extras",
-      "Updated": "2024-02-03T16:50:54.2178826-04:00",
-      "Version": "1.7.00.1864"
+      "Updated": "2024-02-15T03:11:25.6810042-04:00",
+      "Version": "1.7.00.3653"
     },
     {
       "Info": "",
-      "Name": "ps3-system-software",
-      "Source": "games",
-      "Updated": "2024-02-06T04:01:05.8508012-04:00",
-      "Version": "4.90"
+      "Name": "produkey",
+      "Source": "nirsoft",
+      "Updated": "2024-02-08T15:02:40.7177599-04:00",
+      "Version": "1.97"
     },
     {
       "Info": "",
@@ -856,10 +856,24 @@
     },
     {
       "Info": "",
+      "Name": "openssl",
+      "Source": "main",
+      "Updated": "2024-02-15T02:40:37.4731953-04:00",
+      "Version": "3.2.1"
+    },
+    {
+      "Info": "",
       "Name": "opentabletdriver",
       "Source": "extras",
       "Updated": "2024-02-06T05:31:13.4157958-04:00",
       "Version": "0.6.4.0"
+    },
+    {
+      "Info": "",
+      "Name": "openvpn",
+      "Source": "extras",
+      "Updated": "2024-02-15T02:39:41.6114215-04:00",
+      "Version": "2.6.9-I001"
     },
     {
       "Info": "",
@@ -879,22 +893,8 @@
       "Info": "",
       "Name": "pcsx2-dev",
       "Source": "games",
-      "Updated": "2024-02-13T17:30:41.1308775-04:00",
-      "Version": "1.7.5556"
-    },
-    {
-      "Info": "",
-      "Name": "perl",
-      "Source": "main",
-      "Updated": "2024-01-22T17:18:09.2823699-04:00",
-      "Version": "5.38.0.1"
-    },
-    {
-      "Info": "",
-      "Name": "pia-desktop",
-      "Source": "extras",
-      "Updated": "2024-02-06T04:50:10.5721636-04:00",
-      "Version": "3.5.3-07926"
+      "Updated": "2024-02-15T03:11:30.8698602-04:00",
+      "Version": "1.7.5557"
     },
     {
       "Info": "",
@@ -905,10 +905,17 @@
     },
     {
       "Info": "",
-      "Name": "picard",
+      "Name": "perl",
+      "Source": "main",
+      "Updated": "2024-01-22T17:18:09.2823699-04:00",
+      "Version": "5.38.0.1"
+    },
+    {
+      "Info": "",
+      "Name": "pinta",
       "Source": "extras",
-      "Updated": "2024-02-08T23:18:43.7803149-04:00",
-      "Version": "2.11"
+      "Updated": "2024-02-03T17:07:44.8464655-04:00",
+      "Version": "2.1.1"
     },
     {
       "Info": "",
@@ -961,13 +968,6 @@
     },
     {
       "Info": "",
-      "Name": "produkey",
-      "Source": "nirsoft",
-      "Updated": "2024-02-08T15:02:40.7177599-04:00",
-      "Version": "1.97"
-    },
-    {
-      "Info": "",
       "Name": "obs-studio",
       "Source": "extras",
       "Updated": "2024-02-03T16:59:45.4196094-04:00",
@@ -975,10 +975,17 @@
     },
     {
       "Info": "",
-      "Name": "pinta",
+      "Name": "picard",
       "Source": "extras",
-      "Updated": "2024-02-03T17:07:44.8464655-04:00",
-      "Version": "2.1.1"
+      "Updated": "2024-02-08T23:18:43.7803149-04:00",
+      "Version": "2.11"
+    },
+    {
+      "Info": "",
+      "Name": "ps3-system-software",
+      "Source": "games",
+      "Updated": "2024-02-06T04:01:05.8508012-04:00",
+      "Version": "4.90"
     },
     {
       "Info": "",
@@ -1059,10 +1066,10 @@
     },
     {
       "Info": "",
-      "Name": "ripme",
-      "Source": "extras",
-      "Updated": "2024-02-06T02:04:27.0760987-04:00",
-      "Version": "2.1.7"
+      "Name": "sed",
+      "Source": "main",
+      "Updated": "2023-11-24T04:59:25.5404312-04:00",
+      "Version": "4.9"
     },
     {
       "Info": "",
@@ -1073,10 +1080,10 @@
     },
     {
       "Info": "",
-      "Name": "simple64",
-      "Source": "games",
-      "Updated": "2024-02-06T04:06:12.5022209-04:00",
-      "Version": "2024.01.1"
+      "Name": "rufus",
+      "Source": "extras",
+      "Updated": "2024-02-06T05:32:45.8810304-04:00",
+      "Version": "4.4"
     },
     {
       "Info": "",
@@ -1136,17 +1143,10 @@
     },
     {
       "Info": "",
-      "Name": "sed",
-      "Source": "main",
-      "Updated": "2023-11-24T04:59:25.5404312-04:00",
-      "Version": "4.9"
-    },
-    {
-      "Info": "",
-      "Name": "rpcs3",
-      "Source": "games",
-      "Updated": "2024-02-13T17:30:44.1920931-04:00",
-      "Version": "0.0.30-16094"
+      "Name": "ripme",
+      "Source": "extras",
+      "Updated": "2024-02-06T02:04:27.0760987-04:00",
+      "Version": "2.1.7"
     },
     {
       "Info": "",
@@ -1157,10 +1157,10 @@
     },
     {
       "Info": "",
-      "Name": "snes9x",
+      "Name": "simple64",
       "Source": "games",
-      "Updated": "2024-02-06T05:06:03.1150744-04:00",
-      "Version": "1.62.3"
+      "Updated": "2024-02-06T04:06:12.5022209-04:00",
+      "Version": "2024.01.1"
     },
     {
       "Info": "",
@@ -1171,10 +1171,10 @@
     },
     {
       "Info": "",
-      "Name": "sudo",
-      "Source": "main",
-      "Updated": "2024-02-03T17:00:25.3840685-04:00",
-      "Version": "0.2020.01.26"
+      "Name": "sqlitebrowser",
+      "Source": "extras",
+      "Updated": "2024-02-03T17:16:06.9020247-04:00",
+      "Version": "3.12.2"
     },
     {
       "Info": "",
@@ -1215,8 +1215,8 @@
       "Info": "",
       "Name": "vcpkg",
       "Source": "main",
-      "Updated": "2024-01-13T16:26:47.8903731-04:00",
-      "Version": "2024.01.12"
+      "Updated": "2024-02-15T03:12:14.3505736-04:00",
+      "Version": "2024.02.14"
     },
     {
       "Info": "",
@@ -1241,10 +1241,10 @@
     },
     {
       "Info": "",
-      "Name": "sqlitebrowser",
-      "Source": "extras",
-      "Updated": "2024-02-03T17:16:06.9020247-04:00",
-      "Version": "3.12.2"
+      "Name": "snes9x",
+      "Source": "games",
+      "Updated": "2024-02-06T05:06:03.1150744-04:00",
+      "Version": "1.62.3"
     },
     {
       "Info": "",
@@ -1271,8 +1271,8 @@
       "Info": "",
       "Name": "wireshark",
       "Source": "extras",
-      "Updated": "2024-01-22T16:04:55.6768417-04:00",
-      "Version": "4.2.2"
+      "Updated": "2024-02-15T03:12:21.9373886-04:00",
+      "Version": "4.2.3"
     },
     {
       "Info": "",
@@ -1292,8 +1292,8 @@
       "Info": "",
       "Name": "xenia-canary",
       "Source": "games",
-      "Updated": "2024-02-13T17:30:56.932423-04:00",
-      "Version": "20240212211956-5ade4a1"
+      "Updated": "2024-02-15T03:12:22.8733461-04:00",
+      "Version": "20240214172718-1e321cb"
     },
     {
       "Info": "",
@@ -1326,52 +1326,52 @@
   ],
   "buckets": [
     {
-      "Manifests": 1976,
+      "Manifests": 1978,
       "Name": "extras",
       "Source": "https://github.com/ScoopInstaller/Extras",
-      "Updated": "2024-02-13T16:25:21-04:00"
+      "Updated": "2024-02-15T00:26:20-04:00"
     },
     {
       "Manifests": 297,
       "Name": "games",
       "Source": "https://github.com/Calinou/scoop-games",
-      "Updated": "2024-02-13T16:25:31-04:00"
+      "Updated": "2024-02-15T00:25:07-04:00"
     },
     {
       "Manifests": 270,
       "Name": "java",
       "Source": "https://github.com/ScoopInstaller/Java",
-      "Updated": "2024-02-13T12:18:00-04:00"
+      "Updated": "2024-02-14T08:25:25-04:00"
     },
     {
       "Manifests": 1289,
       "Name": "main",
       "Source": "https://github.com/ScoopInstaller/Main",
-      "Updated": "2024-02-13T16:25:03-04:00"
+      "Updated": "2024-02-15T00:25:29-04:00"
     },
     {
       "Manifests": 327,
       "Name": "nerd-fonts",
       "Source": "https://github.com/matthewjberger/scoop-nerd-fonts",
-      "Updated": "2024-02-13T09:20:04-04:00"
+      "Updated": "2024-02-13T23:19:34-04:00"
     },
     {
       "Manifests": 276,
       "Name": "nirsoft",
       "Source": "https://github.com/kodybrown/scoop-nirsoft",
-      "Updated": "2024-02-12T21:07:34-04:00"
+      "Updated": "2024-02-14T00:24:54-04:00"
     },
     {
       "Manifests": 127,
       "Name": "nonportable",
       "Source": "https://github.com/ScoopInstaller/Nonportable",
-      "Updated": "2024-02-13T12:34:18-04:00"
+      "Updated": "2024-02-14T16:28:30-04:00"
     },
     {
       "Manifests": 436,
       "Name": "versions",
       "Source": "https://github.com/ScoopInstaller/Versions",
-      "Updated": "2024-02-13T16:28:33-04:00"
+      "Updated": "2024-02-15T00:31:37-04:00"
     },
     {
       "Manifests": 68,
