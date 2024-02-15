@@ -8,3 +8,5 @@ if (Get-Command chezmoi -ErrorAction SilentlyContinue) { chezmoi completion powe
 Invoke-Expression -Command $(gh completion -s powershell | Out-String)
 # gsudo
 Import-Module gsudoModule
+# zoxide
+Invoke-Expression (& { (zoxide init powershell | Out-String) })
