@@ -48,7 +48,7 @@ Set-Alias -Name ls -Value exa
 if (Test-Path alias:cd) {
   Remove-Alias -Name cd
 }
-Set-Alias -Name cd -Value zoxide
+Set-Alias -Name cd -Value z
 
 # Replace grep with ugrep
 if (Test-Path alias:grep) {

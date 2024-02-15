@@ -22,6 +22,7 @@ function sortScoopOutput($scoop) {
 }
 
 # Scoop installed apps
-sortScoopOutput($(scoop export)) | Out-File "~\scoop\apps.json"
+# sortScoopOutput($(scoop export)) | Out-File "~\scoop\apps.json"
+scoop export | Out-File "~\scoop\apps.json"
 # Pipx installed apps
 pipx list --json | Out-File "~\.pipx.json"
