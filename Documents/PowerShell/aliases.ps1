@@ -43,3 +43,21 @@ if (Test-Path alias:ls) {
   Remove-Alias -Name ls
 }
 Set-Alias -Name ls -Value exa
+
+# Replace cd with zoxide
+if (Test-Path alias:cd) {
+  Remove-Alias -Name cd
+}
+Set-Alias -Name cd -Value zoxide
+
+# Replace grep with ugrep
+if (Test-Path alias:grep) {
+  Remove-Alias -Name grep
+}
+Set-Alias -Name grep -Value ugrep
+
+# Add alias for recycle-bin
+if (Test-Path alias:rb) {
+  Remove-Alias -Name rb
+}
+Set-Alias -Name rb -Value recycle-bin

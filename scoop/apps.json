@@ -9,13 +9,6 @@
     },
     {
       "Info": "",
-      "Name": "86box-manager",
-      "Source": "extras",
-      "Updated": "2024-02-06T04:48:19.4576594-04:00",
-      "Version": "1.7.4"
-    },
-    {
-      "Info": "",
       "Name": "86box-roms",
       "Source": "extras",
       "Updated": "2024-02-06T04:48:27.875685-04:00",
@@ -72,13 +65,6 @@
     },
     {
       "Info": "",
-      "Name": "86box",
-      "Source": "extras",
-      "Updated": "2024-02-06T04:48:13.661004-04:00",
-      "Version": "4.0.1"
-    },
-    {
-      "Info": "",
       "Name": "betterjoy",
       "Source": "games",
       "Updated": "2024-02-06T04:02:59.3348213-04:00",
@@ -86,10 +72,17 @@
     },
     {
       "Info": "",
-      "Name": "bitwarden",
+      "Name": "86box-manager",
       "Source": "extras",
-      "Updated": "2024-02-09T00:31:34.1568897-04:00",
-      "Version": "2024.2.0"
+      "Updated": "2024-02-06T04:48:19.4576594-04:00",
+      "Version": "1.7.4"
+    },
+    {
+      "Info": "",
+      "Name": "bgb",
+      "Source": "games",
+      "Updated": "2024-02-06T04:57:08.1163119-04:00",
+      "Version": "1.6.1"
     },
     {
       "Info": "",
@@ -149,17 +142,24 @@
     },
     {
       "Info": "",
-      "Name": "bgb",
-      "Source": "games",
-      "Updated": "2024-02-06T04:57:08.1163119-04:00",
-      "Version": "1.6.1"
-    },
-    {
-      "Info": "",
       "Name": "draw.io",
       "Source": "extras",
       "Updated": "2024-02-03T16:33:32.6347176-04:00",
       "Version": "23.0.2"
+    },
+    {
+      "Info": "",
+      "Name": "bitwarden",
+      "Source": "extras",
+      "Updated": "2024-02-09T00:31:34.1568897-04:00",
+      "Version": "2024.2.0"
+    },
+    {
+      "Info": "",
+      "Name": "86box",
+      "Source": "extras",
+      "Updated": "2024-02-06T04:48:13.661004-04:00",
+      "Version": "4.0.1"
     },
     {
       "Info": "",
@@ -170,10 +170,10 @@
     },
     {
       "Info": "",
-      "Name": "CascadiaCode-NF",
-      "Source": "nerd-fonts",
-      "Updated": "2024-01-31T16:23:12.6575145-04:00",
-      "Version": "3.1.1"
+      "Name": "capframex",
+      "Source": "extras",
+      "Updated": "2024-02-06T03:53:54.4176589-04:00",
+      "Version": "1.7.2"
     },
     {
       "Info": "",
@@ -240,17 +240,17 @@
     },
     {
       "Info": "",
-      "Name": "capframex",
-      "Source": "extras",
-      "Updated": "2024-02-06T03:53:54.4176589-04:00",
-      "Version": "1.7.2"
-    },
-    {
-      "Info": "",
       "Name": "Cousine-NF",
       "Source": "nerd-fonts",
       "Updated": "2024-02-08T15:06:29.824753-04:00",
       "Version": "3.1.1"
+    },
+    {
+      "Info": "",
+      "Name": "cryptomator",
+      "Source": "extras",
+      "Updated": "2024-02-07T17:56:47.5030843-04:00",
+      "Version": "1.12.0"
     },
     {
       "Info": "",
@@ -317,17 +317,10 @@
     },
     {
       "Info": "",
-      "Name": "cryptomator",
-      "Source": "extras",
-      "Updated": "2024-02-07T17:56:47.5030843-04:00",
-      "Version": "1.12.0"
-    },
-    {
-      "Info": "",
-      "Name": "zoxide",
-      "Source": "main",
-      "Updated": "2024-02-15T16:41:14.220726-04:00",
-      "Version": "0.9.3"
+      "Name": "CascadiaCode-NF",
+      "Source": "nerd-fonts",
+      "Updated": "2024-01-31T16:23:12.6575145-04:00",
+      "Version": "3.1.1"
     },
     {
       "Info": "",
@@ -338,10 +331,24 @@
     },
     {
       "Info": "",
-      "Name": "duckstation",
+      "Name": "cemu-dev",
       "Source": "games",
-      "Updated": "2024-02-07T17:56:48.8052958-04:00",
-      "Version": "20240206-g0bc42c3"
+      "Updated": "2024-02-06T04:03:21.4765101-04:00",
+      "Version": "2.0-65"
+    },
+    {
+      "Info": "",
+      "Name": "DroidSansMono-NF",
+      "Source": "nerd-fonts",
+      "Updated": "2024-02-08T15:06:58.2708665-04:00",
+      "Version": "3.1.1"
+    },
+    {
+      "Info": "",
+      "Name": "graalvm-jdk17",
+      "Source": "java",
+      "Updated": "2024-02-06T03:38:16.5323494-04:00",
+      "Version": "22.3.2"
     },
     {
       "Info": "",
@@ -499,13 +506,6 @@
     },
     {
       "Info": "",
-      "Name": "Go-Mono-NF",
-      "Source": "nerd-fonts",
-      "Updated": "2024-02-08T14:56:04.9749956-04:00",
-      "Version": "3.1.1"
-    },
-    {
-      "Info": "",
       "Name": "godot-mono",
       "Source": "extras",
       "Updated": "2024-02-03T18:10:27.6907842-04:00",
@@ -513,10 +513,10 @@
     },
     {
       "Info": "",
-      "Name": "graalvm-jdk17",
-      "Source": "java",
-      "Updated": "2024-02-06T03:38:16.5323494-04:00",
-      "Version": "22.3.2"
+      "Name": "zoxide",
+      "Source": "main",
+      "Updated": "2024-02-15T16:41:14.220726-04:00",
+      "Version": "0.9.3"
     },
     {
       "Info": "",
@@ -576,17 +576,17 @@
     },
     {
       "Info": "",
-      "Name": "gpu-z",
-      "Source": "extras",
-      "Updated": "2024-02-03T17:18:56.0989428-04:00",
-      "Version": "2.57.0"
-    },
-    {
-      "Info": "",
       "Name": "hyperfine",
       "Source": "main",
       "Updated": "2023-11-12T20:05:20.9789103-04:00",
       "Version": "1.18.0"
+    },
+    {
+      "Info": "",
+      "Name": "imagemagick",
+      "Source": "main",
+      "Updated": "2024-02-13T17:30:39.5644838-04:00",
+      "Version": "7.1.1-28"
     },
     {
       "Info": "",
@@ -653,24 +653,24 @@
     },
     {
       "Info": "",
-      "Name": "imagemagick",
-      "Source": "main",
-      "Updated": "2024-02-13T17:30:39.5644838-04:00",
-      "Version": "7.1.1-28"
-    },
-    {
-      "Info": "",
-      "Name": "cemu-dev",
-      "Source": "games",
-      "Updated": "2024-02-06T04:03:21.4765101-04:00",
-      "Version": "2.0-65"
-    },
-    {
-      "Info": "",
       "Name": "kdenlive",
       "Source": "extras",
       "Updated": "2024-02-03T18:07:41.1490778-04:00",
       "Version": "23.08.4"
+    },
+    {
+      "Info": "",
+      "Name": "gpu-z",
+      "Source": "extras",
+      "Updated": "2024-02-03T17:18:56.0989428-04:00",
+      "Version": "2.57.0"
+    },
+    {
+      "Info": "",
+      "Name": "duckstation",
+      "Source": "games",
+      "Updated": "2024-02-07T17:56:48.8052958-04:00",
+      "Version": "20240206-g0bc42c3"
     },
     {
       "Info": "",
@@ -688,10 +688,10 @@
     },
     {
       "Info": "",
-      "Name": "lazygit",
+      "Name": "krita",
       "Source": "extras",
-      "Updated": "2023-11-03T21:21:01.5862286-03:00",
-      "Version": "0.40.2"
+      "Updated": "2024-02-03T17:21:19.6918518-04:00",
+      "Version": "5.2.2"
     },
     {
       "Info": "",
@@ -744,20 +744,6 @@
     },
     {
       "Info": "",
-      "Name": "notepadplusplus",
-      "Source": "extras",
-      "Updated": "2024-02-03T17:20:45.0441033-04:00",
-      "Version": "8.6.2"
-    },
-    {
-      "Info": "",
-      "Name": "lapce",
-      "Source": "extras",
-      "Updated": "2024-02-08T14:24:25.9363605-04:00",
-      "Version": "0.3.1"
-    },
-    {
-      "Info": "",
       "Name": "miktex",
       "Source": "main",
       "Updated": "2024-01-31T15:25:11.2938777-04:00",
@@ -765,10 +751,24 @@
     },
     {
       "Info": "",
-      "Name": "mp3tag",
+      "Name": "mkvtoolnix",
       "Source": "extras",
-      "Updated": "2024-02-03T16:34:35.4711518-04:00",
-      "Version": "3.24"
+      "Updated": "2024-02-03T16:31:58.2198213-04:00",
+      "Version": "82.0"
+    },
+    {
+      "Info": "",
+      "Name": "lazygit",
+      "Source": "extras",
+      "Updated": "2023-11-03T21:21:01.5862286-03:00",
+      "Version": "0.40.2"
+    },
+    {
+      "Info": "",
+      "Name": "mo2",
+      "Source": "games",
+      "Updated": "2024-02-06T03:42:36.5828669-04:00",
+      "Version": "2.5.0"
     },
     {
       "Info": "",
@@ -821,24 +821,24 @@
     },
     {
       "Info": "",
-      "Name": "mkvtoolnix",
-      "Source": "extras",
-      "Updated": "2024-02-03T16:31:58.2198213-04:00",
-      "Version": "82.0"
-    },
-    {
-      "Info": "",
-      "Name": "mo2",
-      "Source": "games",
-      "Updated": "2024-02-06T03:42:36.5828669-04:00",
-      "Version": "2.5.0"
-    },
-    {
-      "Info": "",
       "Name": "neovim",
       "Source": "main",
       "Updated": "2024-01-04T21:30:20.3549963-04:00",
       "Version": "0.9.5"
+    },
+    {
+      "Info": "",
+      "Name": "notepadplusplus",
+      "Source": "extras",
+      "Updated": "2024-02-03T17:20:45.0441033-04:00",
+      "Version": "8.6.2"
+    },
+    {
+      "Info": "",
+      "Name": "mp3tag",
+      "Source": "extras",
+      "Updated": "2024-02-03T16:34:35.4711518-04:00",
+      "Version": "3.24"
     },
     {
       "Info": "",
@@ -849,10 +849,10 @@
     },
     {
       "Info": "",
-      "Name": "ps3-system-software",
-      "Source": "games",
-      "Updated": "2024-02-06T04:01:05.8508012-04:00",
-      "Version": "4.90"
+      "Name": "obs-studio",
+      "Source": "extras",
+      "Updated": "2024-02-03T16:59:45.4196094-04:00",
+      "Version": "30.0.2"
     },
     {
       "Info": "",
@@ -860,13 +860,6 @@
       "Source": "extras",
       "Updated": "2024-02-03T16:59:02.8688236-04:00",
       "Version": "1.5.3"
-    },
-    {
-      "Info": "",
-      "Name": "oha",
-      "Source": "main",
-      "Updated": "2024-02-04T17:07:28.8513121-04:00",
-      "Version": "1.3.0"
     },
     {
       "Info": "",
@@ -919,13 +912,6 @@
     },
     {
       "Info": "",
-      "Name": "obs-studio",
-      "Source": "extras",
-      "Updated": "2024-02-03T16:59:45.4196094-04:00",
-      "Version": "30.0.2"
-    },
-    {
-      "Info": "",
       "Name": "perl",
       "Source": "main",
       "Updated": "2024-01-22T17:18:09.2823699-04:00",
@@ -933,17 +919,24 @@
     },
     {
       "Info": "",
+      "Name": "picard",
+      "Source": "extras",
+      "Updated": "2024-02-08T23:18:43.7803149-04:00",
+      "Version": "2.11"
+    },
+    {
+      "Info": "",
+      "Name": "oha",
+      "Source": "main",
+      "Updated": "2024-02-04T17:07:28.8513121-04:00",
+      "Version": "1.3.0"
+    },
+    {
+      "Info": "",
       "Name": "pinta",
       "Source": "extras",
       "Updated": "2024-02-03T17:07:44.8464655-04:00",
       "Version": "2.1.1"
-    },
-    {
-      "Info": "",
-      "Name": "pipx",
-      "Source": "main",
-      "Updated": "2024-01-18T15:33:05.3523218-04:00",
-      "Version": "1.4.3"
     },
     {
       "Info": "",
@@ -996,10 +989,10 @@
     },
     {
       "Info": "",
-      "Name": "picard",
-      "Source": "extras",
-      "Updated": "2024-02-08T23:18:43.7803149-04:00",
-      "Version": "2.11"
+      "Name": "ps3-system-software",
+      "Source": "games",
+      "Updated": "2024-02-06T04:01:05.8508012-04:00",
+      "Version": "4.90"
     },
     {
       "Info": "",
@@ -1010,10 +1003,10 @@
     },
     {
       "Info": "",
-      "Name": "DroidSansMono-NF",
-      "Source": "nerd-fonts",
-      "Updated": "2024-02-08T15:06:58.2708665-04:00",
-      "Version": "3.1.1"
+      "Name": "pipx",
+      "Source": "main",
+      "Updated": "2024-01-18T15:33:05.3523218-04:00",
+      "Version": "1.4.3"
     },
     {
       "Info": "",
@@ -1024,17 +1017,24 @@
     },
     {
       "Info": "",
-      "Name": "telegram",
+      "Name": "lapce",
       "Source": "extras",
-      "Updated": "2024-02-06T05:14:26.078774-04:00",
-      "Version": "4.14.13"
+      "Updated": "2024-02-08T14:24:25.9363605-04:00",
+      "Version": "0.3.1"
     },
     {
       "Info": "",
-      "Name": "racket",
-      "Source": "main",
-      "Updated": "2024-02-10T23:25:54.5280089-04:00",
-      "Version": "8.12"
+      "Name": "qbittorrent",
+      "Source": "extras",
+      "Updated": "2024-02-08T17:14:17.0475387-04:00",
+      "Version": "4.6.3"
+    },
+    {
+      "Info": "",
+      "Name": "r2modman",
+      "Source": "games",
+      "Updated": "2024-02-06T03:29:55.098339-04:00",
+      "Version": "3.1.46"
     },
     {
       "Info": "",
@@ -1056,6 +1056,13 @@
       "Source": "extras",
       "Updated": "2024-02-03T17:20:22.8033111-04:00",
       "Version": "1.53.2096"
+    },
+    {
+      "Info": "",
+      "Name": "recycle-bin",
+      "Source": "main",
+      "Updated": "2024-02-15T16:56:02.7908578-04:00",
+      "Version": "2.0.0"
     },
     {
       "Info": "",
@@ -1094,17 +1101,17 @@
     },
     {
       "Info": "",
-      "Name": "r2modman",
-      "Source": "games",
-      "Updated": "2024-02-06T03:29:55.098339-04:00",
-      "Version": "3.1.46"
-    },
-    {
-      "Info": "",
       "Name": "rustup",
       "Source": "main",
       "Updated": "2023-11-03T21:07:33.0605748-03:00",
       "Version": "1.26.0"
+    },
+    {
+      "Info": "",
+      "Name": "ryujinx",
+      "Source": "games",
+      "Updated": "2024-02-13T17:30:55.3121819-04:00",
+      "Version": "1.1.1192"
     },
     {
       "Info": "",
@@ -1164,17 +1171,10 @@
     },
     {
       "Info": "",
-      "Name": "krita",
-      "Source": "extras",
-      "Updated": "2024-02-03T17:21:19.6918518-04:00",
-      "Version": "5.2.2"
-    },
-    {
-      "Info": "",
-      "Name": "ryujinx",
+      "Name": "simple64",
       "Source": "games",
-      "Updated": "2024-02-13T17:30:55.3121819-04:00",
-      "Version": "1.1.1192"
+      "Updated": "2024-02-06T04:06:12.5022209-04:00",
+      "Version": "2024.01.1"
     },
     {
       "Info": "",
@@ -1185,10 +1185,17 @@
     },
     {
       "Info": "",
-      "Name": "simple64",
-      "Source": "games",
-      "Updated": "2024-02-06T04:06:12.5022209-04:00",
-      "Version": "2024.01.1"
+      "Name": "racket",
+      "Source": "main",
+      "Updated": "2024-02-10T23:25:54.5280089-04:00",
+      "Version": "8.12"
+    },
+    {
+      "Info": "",
+      "Name": "Go-Mono-NF",
+      "Source": "nerd-fonts",
+      "Updated": "2024-02-08T14:56:04.9749956-04:00",
+      "Version": "3.1.1"
     },
     {
       "Info": "",
@@ -1196,6 +1203,13 @@
       "Source": "games",
       "Updated": "2024-02-06T05:06:03.1150744-04:00",
       "Version": "1.62.3"
+    },
+    {
+      "Info": "",
+      "Name": "tcc",
+      "Source": "main",
+      "Updated": "2023-07-28T20:07:20.9156489-03:00",
+      "Version": "0.9.27"
     },
     {
       "Info": "",
@@ -1217,6 +1231,13 @@
       "Source": "extras",
       "Updated": "2024-02-03T16:48:35.8696146-04:00",
       "Version": "2.8.1"
+    },
+    {
+      "Info": "",
+      "Name": "ugrep",
+      "Source": "main",
+      "Updated": "2024-02-15T16:54:21.5933988-04:00",
+      "Version": "4.5.2"
     },
     {
       "Info": "",
@@ -1255,10 +1276,10 @@
     },
     {
       "Info": "",
-      "Name": "tcc",
-      "Source": "main",
-      "Updated": "2023-07-28T20:07:20.9156489-03:00",
-      "Version": "0.9.27"
+      "Name": "telegram",
+      "Source": "extras",
+      "Updated": "2024-02-06T05:14:26.078774-04:00",
+      "Version": "4.14.13"
     },
     {
       "Info": "",
@@ -1343,13 +1364,6 @@
       "Source": "extras",
       "Updated": "2024-02-03T17:16:06.9020247-04:00",
       "Version": "3.12.2"
-    },
-    {
-      "Info": "",
-      "Name": "qbittorrent",
-      "Source": "extras",
-      "Updated": "2024-02-08T17:14:17.0475387-04:00",
-      "Version": "4.6.3"
     },
     {
       "Info": "",
