@@ -3,26 +3,26 @@
         {
             "Name": "extras",
             "Source": "https://github.com/ScoopInstaller/Extras",
-            "Updated": "2024-02-23T16:28:16-04:00",
-            "Manifests": 1986
+            "Updated": "2024-02-26T04:29:31-04:00",
+            "Manifests": 1988
         },
         {
             "Name": "games",
             "Source": "https://github.com/Calinou/scoop-games",
-            "Updated": "2024-02-23T16:24:17-04:00",
+            "Updated": "2024-02-26T04:25:49-04:00",
             "Manifests": 299
         },
         {
             "Name": "java",
             "Source": "https://github.com/ScoopInstaller/Java",
-            "Updated": "2024-02-23T08:24:38-04:00",
+            "Updated": "2024-02-24T21:03:51-04:00",
             "Manifests": 270
         },
         {
             "Name": "main",
             "Source": "https://github.com/ScoopInstaller/Main",
-            "Updated": "2024-02-23T16:25:04-04:00",
-            "Manifests": 1290
+            "Updated": "2024-02-26T05:29:36-04:00",
+            "Manifests": 1291
         },
         {
             "Name": "nerd-fonts",
@@ -39,13 +39,13 @@
         {
             "Name": "nonportable",
             "Source": "https://github.com/ScoopInstaller/Nonportable",
-            "Updated": "2024-02-23T12:42:51-04:00",
+            "Updated": "2024-02-26T04:43:20-04:00",
             "Manifests": 127
         },
         {
             "Name": "versions",
             "Source": "https://github.com/ScoopInstaller/Versions",
-            "Updated": "2024-02-23T16:27:42-04:00",
+            "Updated": "2024-02-26T04:32:55-04:00",
             "Manifests": 444
         },
         {
@@ -253,11 +253,11 @@
             "Version": "7.4"
         },
         {
-            "Updated": "2024-02-13T17:29:42.89712-04:00",
+            "Updated": "2024-02-26T07:45:57.7311741-04:00",
             "Name": "chezmoi",
             "Info": "",
             "Source": "main",
-            "Version": "2.46.1"
+            "Version": "2.47.0"
         },
         {
             "Updated": "2024-02-06T05:35:16.1709755-04:00",
@@ -267,11 +267,11 @@
             "Version": "2.0.0.1"
         },
         {
-            "Updated": "2024-02-22T21:55:16.1730753-04:00",
+            "Updated": "2024-02-26T07:45:59.9892724-04:00",
             "Name": "citra-canary",
             "Info": "",
             "Source": "games",
-            "Version": "2788-20240222"
+            "Version": "2791-20240226"
         },
         {
             "Updated": "2024-02-06T05:14:20.9097813-04:00",
@@ -330,11 +330,11 @@
             "Version": "9.2.3"
         },
         {
-            "Updated": "2024-01-31T18:01:23.0222358-04:00",
+            "Updated": "2024-02-26T07:46:01.4932696-04:00",
             "Name": "crystaldiskmark",
             "Info": "",
             "Source": "extras",
-            "Version": "8.0.4c"
+            "Version": "8.0.5"
         },
         {
             "Updated": "2024-02-08T14:56:28.8518148-04:00",
@@ -344,11 +344,11 @@
             "Version": "3.1.1"
         },
         {
-            "Updated": "2024-01-25T19:20:31.9381101-04:00",
+            "Updated": "2024-02-26T07:46:02.2572723-04:00",
             "Name": "dark",
             "Info": "",
             "Source": "main",
-            "Version": "3.11.2"
+            "Version": "3.14"
         },
         {
             "Updated": "2024-02-15T19:55:04.7906395-04:00",
@@ -540,11 +540,11 @@
             "Version": "2.10.36"
         },
         {
-            "Updated": "2023-11-21T02:26:34.203008-04:00",
+            "Updated": "2024-02-26T07:46:09.7331086-04:00",
             "Name": "git",
             "Info": "",
             "Source": "main",
-            "Version": "2.43.0"
+            "Version": "2.44.0"
         },
         {
             "Updated": "2024-02-22T21:56:08.9149479-04:00",
@@ -659,11 +659,11 @@
             "Version": "1.18.0"
         },
         {
-            "Updated": "2024-02-13T17:30:39.5644838-04:00",
+            "Updated": "2024-02-26T07:46:38.955008-04:00",
             "Name": "imagemagick",
             "Info": "",
             "Source": "main",
-            "Version": "7.1.1-28"
+            "Version": "7.1.1-29"
         },
         {
             "Updated": "2024-02-03T17:30:18.4101304-04:00",
@@ -995,11 +995,11 @@
             "Version": "17"
         },
         {
-            "Updated": "2024-02-23T17:43:27.3659398-04:00",
+            "Updated": "2024-02-26T07:46:40.542021-04:00",
             "Name": "pcsx2-dev",
             "Info": "",
             "Source": "games",
-            "Version": "1.7.5574"
+            "Version": "1.7.5578"
         },
         {
             "Updated": "2024-02-23T17:43:45.5099895-04:00",
@@ -1044,11 +1044,11 @@
             "Version": "1.87.2.87-87488d5a"
         },
         {
-            "Updated": "2024-02-15T19:56:22.2055069-04:00",
+            "Updated": "2024-02-26T07:46:41.3990211-04:00",
             "Name": "pnpm",
             "Info": "",
             "Source": "main",
-            "Version": "8.15.3"
+            "Version": "8.15.4"
         },
         {
             "Updated": "2024-02-01T14:37:37.514329-04:00",
@@ -1184,11 +1184,11 @@
             "Version": "2.1.7"
         },
         {
-            "Updated": "2024-02-22T21:56:17.2316064-04:00",
+            "Updated": "2024-02-26T07:46:43.3840189-04:00",
             "Name": "rpcs3",
             "Info": "",
             "Source": "games",
-            "Version": "0.0.30-16132"
+            "Version": "0.0.30-16135"
         },
         {
             "Updated": "2024-02-06T05:32:45.8810304-04:00",
@@ -1205,11 +1205,11 @@
             "Version": "1.26.0"
         },
         {
-            "Updated": "2024-02-22T21:56:27.8229643-04:00",
+            "Updated": "2024-02-26T07:46:54.018023-04:00",
             "Name": "ryujinx",
             "Info": "",
             "Source": "games",
-            "Version": "1.1.1211"
+            "Version": "1.1.1214"
         },
         {
             "Updated": "2024-02-06T04:56:59.519221-04:00",
@@ -1422,11 +1422,11 @@
             "Version": "0.7.118"
         },
         {
-            "Updated": "2024-02-19T18:20:59.6575947-04:00",
+            "Updated": "2024-02-26T07:46:54.5960177-04:00",
             "Name": "xenia-canary",
             "Info": "",
             "Source": "games",
-            "Version": "20240219185513-d11271f"
+            "Version": "20240224202445-93b5886"
         },
         {
             "Updated": "2024-01-29T15:58:20.9436166-04:00",
