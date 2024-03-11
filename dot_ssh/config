@@ -6,6 +6,12 @@ Host fcslinux
 	AddKeysToAgent yes
 	ForwardAgent yes
 
+Host remotelab34
+	Hostname remotelabm34.cs.unb.ca
+	User ishoebot
+	Port 22
+	ProxyCommand ssh -q -W %h:%p fcslinux
+
 Host remotelab35
 	Hostname remotelabm35.cs.unb.ca
 	User ishoebot
