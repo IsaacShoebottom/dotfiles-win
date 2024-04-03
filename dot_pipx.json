@@ -51,8 +51,9 @@
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.4",
                 "python_version": "Python 3.11.8",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -117,6 +118,12 @@
                                 "__type__": "Path"
                             }
                         ],
+                        "playwright": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\nbconvert\\Scripts\\playwright.exe",
+                                "__type__": "Path"
+                            }
+                        ],
                         "pygments": [
                             {
                                 "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\nbconvert\\Scripts\\pygmentize.exe",
@@ -150,7 +157,8 @@
                         "jupyter-run.exe",
                         "jupyter-trust.exe",
                         "jsonschema.exe",
-                        "pygmentize.exe"
+                        "pygmentize.exe",
+                        "playwright.exe"
                     ],
                     "include_apps": true,
                     "include_dependencies": false,
@@ -159,13 +167,16 @@
                     "man_paths": [],
                     "man_paths_of_dependencies": {},
                     "package": "nbconvert",
-                    "package_or_url": "nbconvert",
+                    "package_or_url": "nbconvert[webpdf]",
                     "package_version": "7.16.2",
-                    "pip_args": [],
+                    "pip_args": [
+                        "--force-reinstall"
+                    ],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.4",
                 "python_version": "Python 3.11.8",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -196,8 +207,9 @@
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.4",
                 "python_version": "Python 3.11.8",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -242,8 +254,9 @@
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.4",
                 "python_version": "Python 3.11.8",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -390,8 +403,9 @@
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.4",
                 "python_version": "Python 3.11.8",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -483,8 +497,247 @@
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.4",
                 "python_version": "Python 3.11.8",
+                "source_interpreter": null,
+                "venv_args": []
+            }
+        },
+        "rembg": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\rembg.exe",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {
+                        "charset-normalizer": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\normalizer.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "coloredlogs": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\coloredlogs.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "filetype": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\filetype.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "fonttools": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\fonttools.exe",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\pyftmerge.exe",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\pyftsubset.exe",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\ttx.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "gradio": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\gradio.exe",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\upload_theme.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "httpx": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\httpx.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "huggingface-hub": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\huggingface-cli.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "humanfriendly": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\humanfriendly.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "imageio": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\imageio_download_bin.exe",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\imageio_remove_bin.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "jsonschema": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\jsonschema.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "markdown-it-py": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\markdown-it.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "numba": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\numba",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "numpy": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\f2py.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "onnxruntime": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\onnxruntime_test.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "pygments": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\pygmentize.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "ruff": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\ruff.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "sympy": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\isympy.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "tifffile": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\lsm2bin.exe",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\tiff2fsspec.exe",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\tiffcomment.exe",
+                                "__type__": "Path"
+                            },
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\tifffile.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "tqdm": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\tqdm.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "uvicorn": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\uvicorn.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "watchdog": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\watchmedo.exe",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "apps": [
+                        "rembg.exe"
+                    ],
+                    "apps_of_dependencies": [
+                        "jsonschema.exe",
+                        "f2py.exe",
+                        "onnxruntime_test.exe",
+                        "coloredlogs.exe",
+                        "humanfriendly.exe",
+                        "isympy.exe",
+                        "normalizer.exe",
+                        "numba",
+                        "imageio_download_bin.exe",
+                        "imageio_remove_bin.exe",
+                        "lsm2bin.exe",
+                        "tiff2fsspec.exe",
+                        "tiffcomment.exe",
+                        "tifffile.exe",
+                        "tqdm.exe",
+                        "filetype.exe",
+                        "gradio.exe",
+                        "upload_theme.exe",
+                        "httpx.exe",
+                        "huggingface-cli.exe",
+                        "fonttools.exe",
+                        "pyftmerge.exe",
+                        "pyftsubset.exe",
+                        "ttx.exe",
+                        "ruff.exe",
+                        "markdown-it.exe",
+                        "pygmentize.exe",
+                        "uvicorn.exe",
+                        "watchmedo.exe"
+                    ],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [
+                        "man1\\isympy.1",
+                        "man1\\ttx.1"
+                    ],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {
+                        "fonttools": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\share\\man\\man1\\ttx.1",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "sympy": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\share\\man\\man1\\isympy.1",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "package": "rembg",
+                    "package_or_url": "rembg[cli]",
+                    "package_version": "2.0.56",
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.4",
+                "python_version": "Python 3.11.8",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -515,8 +768,9 @@
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.4",
                 "python_version": "Python 3.11.8",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -570,8 +824,9 @@
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.4",
                 "python_version": "Python 3.11.8",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -703,8 +958,9 @@
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.4",
                 "python_version": "Python 3.11.8",
+                "source_interpreter": null,
                 "venv_args": []
             }
         },
@@ -735,8 +991,9 @@
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.3",
+                "pipx_metadata_version": "0.4",
                 "python_version": "Python 3.11.8",
+                "source_interpreter": null,
                 "venv_args": []
             }
         }
