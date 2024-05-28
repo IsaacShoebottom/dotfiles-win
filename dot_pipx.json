@@ -52,8 +52,11 @@
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.4",
-                "python_version": "Python 3.11.8",
-                "source_interpreter": null,
+                "python_version": "Python 3.11.9",
+                "source_interpreter": {
+                    "__Path__": "C:\\Users\\Isaac\\scoop\\apps\\python311\\current\\python.exe",
+                    "__type__": "Path"
+                },
                 "venv_args": []
             }
         },
@@ -118,12 +121,6 @@
                                 "__type__": "Path"
                             }
                         ],
-                        "playwright": [
-                            {
-                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\nbconvert\\Scripts\\playwright.exe",
-                                "__type__": "Path"
-                            }
-                        ],
                         "pygments": [
                             {
                                 "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\nbconvert\\Scripts\\pygmentize.exe",
@@ -157,8 +154,7 @@
                         "jupyter-run.exe",
                         "jupyter-trust.exe",
                         "jsonschema.exe",
-                        "pygmentize.exe",
-                        "playwright.exe"
+                        "pygmentize.exe"
                     ],
                     "include_apps": true,
                     "include_dependencies": false,
@@ -167,16 +163,17 @@
                     "man_paths": [],
                     "man_paths_of_dependencies": {},
                     "package": "nbconvert",
-                    "package_or_url": "nbconvert[webpdf]",
-                    "package_version": "7.16.2",
-                    "pip_args": [
-                        "--force-reinstall"
-                    ],
+                    "package_or_url": "nbconvert",
+                    "package_version": "7.16.3",
+                    "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.4",
-                "python_version": "Python 3.11.8",
-                "source_interpreter": null,
+                "python_version": "Python 3.11.9",
+                "source_interpreter": {
+                    "__Path__": "C:\\Users\\Isaac\\scoop\\apps\\python311\\current\\python.exe",
+                    "__type__": "Path"
+                },
                 "venv_args": []
             }
         },
@@ -203,13 +200,16 @@
                     "man_paths_of_dependencies": {},
                     "package": "pipdeptree",
                     "package_or_url": "pipdeptree",
-                    "package_version": "2.16.1",
+                    "package_version": "2.17.0",
                     "pip_args": [],
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.4",
-                "python_version": "Python 3.11.8",
-                "source_interpreter": null,
+                "python_version": "Python 3.11.9",
+                "source_interpreter": {
+                    "__Path__": "C:\\Users\\Isaac\\scoop\\apps\\python311\\current\\python.exe",
+                    "__type__": "Path"
+                },
                 "venv_args": []
             }
         },
@@ -255,8 +255,11 @@
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.4",
-                "python_version": "Python 3.11.8",
-                "source_interpreter": null,
+                "python_version": "Python 3.11.9",
+                "source_interpreter": {
+                    "__Path__": "C:\\Users\\Isaac\\scoop\\apps\\python311\\current\\python.exe",
+                    "__type__": "Path"
+                },
                 "venv_args": []
             }
         },
@@ -404,8 +407,11 @@
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.4",
-                "python_version": "Python 3.11.8",
-                "source_interpreter": null,
+                "python_version": "Python 3.11.9",
+                "source_interpreter": {
+                    "__Path__": "C:\\Users\\Isaac\\scoop\\apps\\python311\\current\\python.exe",
+                    "__type__": "Path"
+                },
                 "venv_args": []
             }
         },
@@ -498,8 +504,11 @@
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.4",
-                "python_version": "Python 3.11.8",
-                "source_interpreter": null,
+                "python_version": "Python 3.11.9",
+                "source_interpreter": {
+                    "__Path__": "C:\\Users\\Isaac\\scoop\\apps\\python311\\current\\python.exe",
+                    "__type__": "Path"
+                },
                 "venv_args": []
             }
         },
@@ -660,6 +669,12 @@
                                 "__type__": "Path"
                             }
                         ],
+                        "typer": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\typer.exe",
+                                "__type__": "Path"
+                            }
+                        ],
                         "uvicorn": [
                             {
                                 "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\rembg\\Scripts\\uvicorn.exe",
@@ -702,6 +717,7 @@
                         "pyftsubset.exe",
                         "ttx.exe",
                         "ruff.exe",
+                        "typer.exe",
                         "markdown-it.exe",
                         "pygmentize.exe",
                         "uvicorn.exe",
@@ -736,8 +752,11 @@
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.4",
-                "python_version": "Python 3.11.8",
-                "source_interpreter": null,
+                "python_version": "Python 3.11.9",
+                "source_interpreter": {
+                    "__Path__": "C:\\Users\\Isaac\\scoop\\apps\\python311\\current\\python.exe",
+                    "__type__": "Path"
+                },
                 "venv_args": []
             }
         },
@@ -769,8 +788,11 @@
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.4",
-                "python_version": "Python 3.11.8",
-                "source_interpreter": null,
+                "python_version": "Python 3.11.9",
+                "source_interpreter": {
+                    "__Path__": "C:\\Users\\Isaac\\scoop\\apps\\python311\\current\\python.exe",
+                    "__type__": "Path"
+                },
                 "venv_args": []
             }
         },
@@ -825,8 +847,11 @@
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.4",
-                "python_version": "Python 3.11.8",
-                "source_interpreter": null,
+                "python_version": "Python 3.11.9",
+                "source_interpreter": {
+                    "__Path__": "C:\\Users\\Isaac\\scoop\\apps\\python311\\current\\python.exe",
+                    "__type__": "Path"
+                },
                 "venv_args": []
             }
         },
@@ -959,8 +984,11 @@
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.4",
-                "python_version": "Python 3.11.8",
-                "source_interpreter": null,
+                "python_version": "Python 3.11.9",
+                "source_interpreter": {
+                    "__Path__": "C:\\Users\\Isaac\\scoop\\apps\\python311\\current\\python.exe",
+                    "__type__": "Path"
+                },
                 "venv_args": []
             }
         },
@@ -992,8 +1020,11 @@
                     "suffix": ""
                 },
                 "pipx_metadata_version": "0.4",
-                "python_version": "Python 3.11.8",
-                "source_interpreter": null,
+                "python_version": "Python 3.11.9",
+                "source_interpreter": {
+                    "__Path__": "C:\\Users\\Isaac\\scoop\\apps\\python311\\current\\python.exe",
+                    "__type__": "Path"
+                },
                 "venv_args": []
             }
         }

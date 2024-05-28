@@ -7,3 +7,8 @@
 
 # Aliases
 . ~/Documents/PowerShell/aliases.ps1
+
+# Switch to default dir
+if ((Get-Location) -like "*scoop\apps\windows-terminal*") {
+    Set-Location ~
+}

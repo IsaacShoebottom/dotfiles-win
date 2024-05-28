@@ -20,3 +20,5 @@
 	autocrlf = true
 [credential "helperselector"]
 	selected = manager
+[pull]
+	rebase = true
