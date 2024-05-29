@@ -22,3 +22,8 @@
 	selected = manager
 [pull]
 	rebase = true
+[credential]
+	helper = 
+	helper = C:/Users/Isaac/scoop/apps/git-credential-manager/current/git-credential-manager.exe
+[credential "https://dev.azure.com"]
+	useHttpPath = true
