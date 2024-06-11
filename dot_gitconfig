@@ -8,21 +8,9 @@
 	email = ir.shoebottom@gmail.com
 [init]
 	defaultBranch = master
-[credential "https://github.com"]
-	helper = gh auth git-credential
-[credential "https://gist.github.com"]
-	helper = gh auth git-credential
-[credential "https://vcs.cs.unb.ca"]
-	provider = generic
-[credential "https://git.shoebottom.ca"]
-	provider = generic
 [core]
 	autocrlf = false
-[credential "helperselector"]
-	selected = manager
 [pull]
 	rebase = true
 [credential]
 	helper = C:/Users/Isaac/scoop/apps/git-credential-manager/current/git-credential-manager.exe
-[credential "https://dev.azure.com"]
-	useHttpPath = true
