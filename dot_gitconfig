@@ -14,3 +14,5 @@
 	rebase = true
 [credential]
 	helper = C:/Users/Isaac/scoop/apps/git-credential-manager/current/git-credential-manager.exe
+[credential "https://git.shoebottom.ca"]
+	provider = generic
