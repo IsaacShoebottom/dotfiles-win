@@ -48,10 +48,11 @@
                     "package": "mkdocs",
                     "package_or_url": "mkdocs",
                     "package_version": "1.5.3",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.4",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.11.9",
                 "source_interpreter": {
                     "__Path__": "C:\\Users\\Isaac\\scoop\\apps\\python311\\current\\python.exe",
@@ -165,10 +166,11 @@
                     "package": "nbconvert",
                     "package_or_url": "nbconvert",
                     "package_version": "7.16.3",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.4",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.11.9",
                 "source_interpreter": {
                     "__Path__": "C:\\Users\\Isaac\\scoop\\apps\\python311\\current\\python.exe",
@@ -201,10 +203,11 @@
                     "package": "pipdeptree",
                     "package_or_url": "pipdeptree",
                     "package_version": "2.17.0",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.4",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.11.9",
                 "source_interpreter": {
                     "__Path__": "C:\\Users\\Isaac\\scoop\\apps\\python311\\current\\python.exe",
@@ -251,10 +254,11 @@
                     "package": "pipenv",
                     "package_or_url": "pipenv",
                     "package_version": "2023.12.1",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.4",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.11.9",
                 "source_interpreter": {
                     "__Path__": "C:\\Users\\Isaac\\scoop\\apps\\python311\\current\\python.exe",
@@ -403,10 +407,11 @@
                     "package": "pipreqs",
                     "package_or_url": "pipreqs",
                     "package_version": "0.5.0",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.4",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.11.9",
                 "source_interpreter": {
                     "__Path__": "C:\\Users\\Isaac\\scoop\\apps\\python311\\current\\python.exe",
@@ -500,10 +505,11 @@
                     "package": "poetry",
                     "package_or_url": "poetry",
                     "package_version": "1.8.2",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.4",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.11.9",
                 "source_interpreter": {
                     "__Path__": "C:\\Users\\Isaac\\scoop\\apps\\python311\\current\\python.exe",
@@ -748,10 +754,11 @@
                     "package": "rembg",
                     "package_or_url": "rembg[cli]",
                     "package_version": "2.0.56",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.4",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.11.9",
                 "source_interpreter": {
                     "__Path__": "C:\\Users\\Isaac\\scoop\\apps\\python311\\current\\python.exe",
@@ -784,10 +791,11 @@
                     "package": "segno",
                     "package_or_url": "segno",
                     "package_version": "1.6.1",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.4",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.11.9",
                 "source_interpreter": {
                     "__Path__": "C:\\Users\\Isaac\\scoop\\apps\\python311\\current\\python.exe",
@@ -843,10 +851,11 @@
                     "package": "sherlock-hunt",
                     "package_or_url": "sherlock-hunt",
                     "package_version": "0.16.0",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.4",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.11.9",
                 "source_interpreter": {
                     "__Path__": "C:\\Users\\Isaac\\scoop\\apps\\python311\\current\\python.exe",
@@ -980,10 +989,11 @@
                     "package": "streamrip",
                     "package_or_url": "streamrip",
                     "package_version": "2.0.5",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.4",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.11.9",
                 "source_interpreter": {
                     "__Path__": "C:\\Users\\Isaac\\scoop\\apps\\python311\\current\\python.exe",
@@ -1016,10 +1026,11 @@
                     "package": "virtualenv",
                     "package_or_url": "virtualenv",
                     "package_version": "20.25.1",
+                    "pinned": false,
                     "pip_args": [],
                     "suffix": ""
                 },
-                "pipx_metadata_version": "0.4",
+                "pipx_metadata_version": "0.5",
                 "python_version": "Python 3.11.9",
                 "source_interpreter": {
                     "__Path__": "C:\\Users\\Isaac\\scoop\\apps\\python311\\current\\python.exe",
