@@ -179,6 +179,66 @@
                 "venv_args": []
             }
         },
+        "party": {
+            "metadata": {
+                "injected_packages": {},
+                "main_package": {
+                    "app_paths": [
+                        {
+                            "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\party\\Scripts\\party.exe",
+                            "__type__": "Path"
+                        }
+                    ],
+                    "app_paths_of_dependencies": {
+                        "charset-normalizer": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\party\\Scripts\\normalizer.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "python-slugify": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\party\\Scripts\\slugify.exe",
+                                "__type__": "Path"
+                            }
+                        ],
+                        "tqdm": [
+                            {
+                                "__Path__": "C:\\Users\\Isaac\\AppData\\Local\\pipx\\pipx\\venvs\\party\\Scripts\\tqdm.exe",
+                                "__type__": "Path"
+                            }
+                        ]
+                    },
+                    "apps": [
+                        "party.exe"
+                    ],
+                    "apps_of_dependencies": [
+                        "slugify.exe",
+                        "normalizer.exe",
+                        "tqdm.exe"
+                    ],
+                    "include_apps": true,
+                    "include_dependencies": false,
+                    "man_pages": [],
+                    "man_pages_of_dependencies": [],
+                    "man_paths": [],
+                    "man_paths_of_dependencies": {},
+                    "package": "party",
+                    "package_or_url": "https://github.com/darkdragn/party/releases/download/v0.7.4/party-0.7.4-py3-none-any.whl",
+                    "package_version": "0.7.4",
+                    "pinned": false,
+                    "pip_args": [],
+                    "suffix": ""
+                },
+                "pipx_metadata_version": "0.5",
+                "python_version": "Python 3.11.9",
+                "source_interpreter": {
+                    "__Path__": "C:\\Users\\Isaac\\scoop\\apps\\python311\\current\\python.exe",
+                    "__type__": "Path"
+                },
+                "venv_args": []
+            }
+        },
         "pipdeptree": {
             "metadata": {
                 "injected_packages": {},
