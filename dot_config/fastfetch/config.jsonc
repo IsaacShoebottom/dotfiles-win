@@ -20,10 +20,9 @@
     "cpu",
     "gpu",
     "memory",
-    "swap",
     "localip",
     "battery",
     "poweradapter",
-    "weather",
+    "weather"
   ]
 }
