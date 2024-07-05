@@ -24,5 +24,6 @@
     "localip",
     "battery",
     "poweradapter",
+    "weather",
   ]
 }
