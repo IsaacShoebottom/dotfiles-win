@@ -9,10 +9,12 @@
 [init]
 	defaultBranch = master
 [core]
-	autocrlf = false
+	autocrlf = true
 [pull]
 	rebase = true
 [credential]
 	helper = C:/Users/Isaac/scoop/apps/git-credential-manager/current/git-credential-manager.exe
 [credential "https://git.shoebottom.ca"]
 	provider = generic
+[credential "helperselector"]
+	selected = manager

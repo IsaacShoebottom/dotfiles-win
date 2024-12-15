@@ -12,5 +12,3 @@
 if ((Get-Location) -like "*scoop\apps\windows-terminal*") {
     Set-Location ~
 }
-
-fastfetch

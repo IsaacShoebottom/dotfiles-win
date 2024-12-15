@@ -10,3 +10,5 @@ Invoke-Expression -Command $(gh completion -s powershell | Out-String)
 Import-Module gsudoModule
 # zoxide
 Invoke-Expression (& { (zoxide init powershell | Out-String) })
+# packwiz
+packwiz completion powershell | Out-String | Invoke-Expression
