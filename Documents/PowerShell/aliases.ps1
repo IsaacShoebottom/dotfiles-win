@@ -1,7 +1,7 @@
 # Unix like pwd
 if (Test-Path alias:pwd) {
   Remove-Alias -Name pwd
-} 
+}
 Function pwd { (Get-Location).Path }
 
 # Change to dotfiles directory
@@ -61,3 +61,8 @@ if (Test-Path alias:rb) {
   Remove-Alias -Name rb
 }
 Set-Alias -Name rb -Value recycle-bin
+
+# Add shorthand alias for scoop update and cleanup
+Function update {
+  sudo scoop update * && sudo scoop cleanup * && scoop cache rm *
+}
