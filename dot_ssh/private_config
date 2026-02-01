@@ -1,0 +1,46 @@
+# For UNB host tab completion
+Include unb_hosts
+
+# Personal webserver
+Host ssh.shoebottom.ca
+	User isaac
+	Port 2222
+	IdentityFile ~/.ssh/ubuntu.ed25519
+	AddKeysToAgent yes
+
+# Bastion host for the CS department
+Host fcslinux.cs.unb.ca
+	User ishoebot
+	IdentityFile ~/.ssh/unb.ed25519
+	AddKeysToAgent yes
+	ForwardAgent yes
+
+# Individual hosts for the CS department
+Host *m??.cs.unb.ca
+	User ishoebot
+	AddKeysToAgent yes
+	ForwardAgent yes
+	ProxyJump fcslinux.cs.unb.ca
+
+# GitHub ssh commits
+Host github.com
+	User git
+	IdentityFile ~/.ssh/git.ed25519
+	AddKeysToAgent yes
+	ForwardX11 no
+
+# Gitea ssh commits
+Host git.shoebottom.ca
+	Hostname ssh.shoebottom.ca
+	User git
+	Port 2221
+	IdentityFile ~/.ssh/git.ed25519
+	AddKeysToAgent yes
+	ForwardX11 no
+
+# AUR ssh commits
+Host aur.archlinux.org
+	User aur
+	IdentityFile ~/.ssh/aur.ed25519
+	AddKeysToAgent yes
+	ForwardX11 no
