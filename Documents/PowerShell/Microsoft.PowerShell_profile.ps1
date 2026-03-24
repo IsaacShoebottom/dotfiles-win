@@ -64,7 +64,7 @@ if (Get-Command chezmoi -ErrorAction SilentlyContinue) {
 		chezmoi git diff
 		$answer = Read-Host "Commit changes? [y/N]"
 		if ($answer -eq "y" -or $answer -eq "Y") {
-			chezmoi git -- commit -am "$args[0]"
+			chezmoi git -- commit -am `$args[0]`
 			$answer = Read-Host "Push changes? [y/N]"
 			if ($answer -eq "y" -or $answer -eq "Y") {
 				chezmoi git push
