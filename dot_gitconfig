@@ -14,6 +14,7 @@
 [pull]
 	rebase = true
 [credential]
-	helper = git-credential-wincred
+	provider = generic
+	helper = wincred
 	helper = cache
 
