@@ -43,7 +43,6 @@ if (Get-Command chezmoi -ErrorAction SilentlyContinue) {
 			return
 		}
 		chezmoi add "$($args[0])"
-		chezmoi add .
 		chezmoi git status
 		$answer = Read-Host "Commit changes? [y/N]"
 		if ($answer -eq "y" -or $answer -eq "Y") {
