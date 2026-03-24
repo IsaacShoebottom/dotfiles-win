@@ -16,3 +16,5 @@
 [credential]
 	helper = C:/Users/Isaac/scoop/apps/git-credential-manager/current/git-credential-manager.exe
 	helper = cache
+[credential "https://git.shoebottom.ca"]
+	provider = generic
