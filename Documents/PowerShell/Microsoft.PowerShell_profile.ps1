@@ -75,6 +75,7 @@ if (Get-Command chezmoi -ErrorAction SilentlyContinue) {
 	Function .status { chezmoi git status }
 	Function .diff { chezmoi git diff }
 	Function .update { chezmoi update }
+	Function .folder { Set-Location (chezmoi source-path) }
 }
 
 
