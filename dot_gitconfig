@@ -4,8 +4,8 @@
 	smudge = git-lfs smudge -- %f
 	required = true
 [user]
-	name = Isaac Shoebottom
 	email = ir.shoebottom@gmail.com
+	name = Isaac Shoebottom
 [init]
 	defaultBranch = master
 [core]
@@ -15,3 +15,4 @@
 	rebase = true
 [credential]
 	helper = C:/Users/Isaac/scoop/apps/git-credential-manager/current/git-credential-manager.exe
+	helper = cache
