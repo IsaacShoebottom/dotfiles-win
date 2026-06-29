@@ -143,3 +143,8 @@ Function update {
 if ((Get-Location) -like "*scoop\apps\windows-terminal*") {
     Set-Location ~
 }
+
+# Use starship prompt if installed
+if (Get-Command starship -ErrorAction SilentlyContinue) {
+	Invoke-Expression (&starship init powershell)
+}
