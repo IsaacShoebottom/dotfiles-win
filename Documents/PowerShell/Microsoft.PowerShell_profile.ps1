@@ -1,3 +1,6 @@
+# Setup
+$PSProfileLoadTimePreference = 'Silent'
+
 ### Shell completion
 
 # Scoop completion
@@ -25,6 +28,10 @@ if (Get-Command zoxide -ErrorAction SilentlyContinue) {
 # packwiz
 if (Get-Command packwiz -ErrorAction SilentlyContinue) {
 	Invoke-Expression ((&packwiz completion powershell | Out-String))
+}
+
+if (Get-Command cheat -ErrorAction SilentlyContinue) {
+	Invoke-Expression ((&cheat --completion powershell | Out-String))
 }
 
 ### Aliases

@@ -18,3 +18,5 @@
 	helper = wincred
 	helper = cache
 
+[safe]
+	directory = *
